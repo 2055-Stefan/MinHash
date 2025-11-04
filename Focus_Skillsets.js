@@ -7,7 +7,7 @@ const requestOptions = {
     headers: myHeaders,
     redirect: "follow"
 };
-
+    
 fetch("https://www.skilldisplay.eu/api/v1/skillset/1096", requestOptions)
     .then((response) => response.text())
     .then((result) => console.log(result))
