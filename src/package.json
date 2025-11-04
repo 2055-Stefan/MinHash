@@ -5,5 +5,8 @@
   "main": "test.js",
   "scripts": {
     "start": "node test.js"
+  },
+  "dependencies": {
+    "minhash": "^0.0.9"
   }
 }
