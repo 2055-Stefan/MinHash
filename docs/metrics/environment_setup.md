@@ -10,7 +10,7 @@
 ---
 
 **VERSION:** v1.0  **DATUM:** 31.10.2025  **AUTOR:** Stefan Scheer  **ÄNDERUNG:** Erstellung  
-**VERSION:** v1.1  **DATUM:** 09.11.2025  **AUTOR:** Stefan Scheer  **ÄNDERUNG:** Erweiterung VCS-Struktur sowie Bearbeitung einzelner hier abgebildeter Dateien  
+**VERSION:** v1.1  **DATUM:** 09.11.2025  **AUTOR:** Stefan Scheer  **ÄNDERUNG:** Erweiterung der VCS-Struktur sowie Bearbeitung einzelner Setup-Bestandteile
 
 ---
 
@@ -20,10 +20,6 @@
 - Das Dokument *HSH_EnvironmentSetup_x.y* (x.y entspricht jetzt 1.1) dient nur zur Abgabe und befindet sich auf Teams
 - Das Dokument *environment_setup* im Ordner /docs/metrics ist die zu verwendene und aktuellste Version des Dokuments und befindet sich auf GitHub (bzw. nach git clone auch lokal)
 - Bei Änderungen (z.B. Erstellung neuer Ordner im Root VZ; Anpassung D) im Grundsetup, welche die Anpassung des environment_setups erfordern, soll der Projektleiter konsultiert werden - siehe HSH_Spielregeln_v.2.1 im Abschnitt 2.2 Veränderungsmanagement
-
-**Christian Kleeber**  
-- Erstellung der ursprünglichen Dateien zur Datenaufbereitung (jetzt in `src/data/fetch/` enthalten).  
-- Aufbau der ersten API-Fetches zu SkillDisplay.  
 
 **Julian Höher**  
 - Erstellung des NodeJS-Docker-Setup in /src
@@ -69,10 +65,6 @@ Es dient als Referenz, um eine einheitliche Entwicklungsumgebung sicherzustellen
 MINHASH/
 ├─ data/
 │  ├─ demo/
-│  ├─ fetch/
-│  │  ├─ Focus_Skillsets.js
-│  │  ├─ Learning_Skillsets.js
-│  │  └─ Verifications.js
 │  └─ results/
 │     ├─ raw/
 │     │  └─ <timestamp>/
@@ -85,19 +77,21 @@ MINHASH/
 │     ├─ environment_setup.md
 │     ├─ performance_metrics.md
 │     ├─ performance_results.md
-│     └─ minhash_lib_evaluation.md
+│     └─ minhash_lib_evaluation.md 
 ├─ src/
 │  ├─ algorithms/
-│  │  ├─ jaccard.js
-│  │  └─ minhash.js
-│  ├─ data/
+│  ├─ services/
+│  │  ├─ fetch/
+│  │  ├─ converters/
 │  │  └─ fetchAll.js
-│  ├─ docker-compose.yaml
 │  ├─ measure.js
+│  ├─ docker-compose.yaml
 │  ├─ package.json
 │  └─ test.js
 └─ README.md
 ```
+**Hinweis:** Jeder Durchlauf der Fetch-Skripte erzeugt automatisch einen Zeitstempel-Ordner  
+(z. B. `2025-11-09_18-42-03`), um Ergebnisse reproduzierbar und nachvollziehbar zu speichern.
 
 ---
 
