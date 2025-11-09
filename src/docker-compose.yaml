@@ -7,6 +7,7 @@ services:
       - NODE_ENV=production
     volumes:
       - ./:/home/node/app
-    ports: # use if it is necessary to expose the container to the host machine
+    ports:
       - "8888:8888"
-    command: ["npm", "start"] #start - siehe package.json JSON_Array_Converter.js wird per docker-compose up  ausgeführt ergebnis in console
+    command: ["sh", "-c", "npm install node-fetch && npm install && npm start"]
+    

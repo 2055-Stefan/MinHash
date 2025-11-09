@@ -4,9 +4,6 @@
   "description": "",
   "main": "test.js",
   "scripts": {
-    "start": "node test.js"
-  },
-  "dependencies": {
-    "minhash": "^0.0.9"
+    "start": "node ./data/fetch/fetchAll.js"
   }
 }
