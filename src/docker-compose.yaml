@@ -10,4 +10,3 @@ services:
     ports:
       - "8888:8888"
     command: ["sh", "-c", "npm install node-fetch && npm install && npm start"]
-    

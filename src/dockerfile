@@ -1,0 +1,20 @@
+# Verwende das offizielle Node.js-Image (Version 22)
+FROM node:22
+
+# Setze das Arbeitsverzeichnis im Container
+WORKDIR /home/node/app
+
+# Kopiere nur die package.json und package-lock.json (falls vorhanden)
+COPY package*.json ./
+
+# Installiere die Abhängigkeiten (einschließlich MinHash)
+RUN npm install
+
+# Kopiere den Rest des Projekts in das Container-Verzeichnis
+COPY . .
+
+# Exponiere den Port 8888 (optional, je nach Bedarf)
+EXPOSE 8888
+
+# Definiere den Standardbefehl zum Starten der Anwendung
+CMD ["npm", "start"]

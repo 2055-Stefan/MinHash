@@ -4,6 +4,9 @@
   "description": "",
   "main": "test.js",
   "scripts": {
-    "start": "node ./data/fetch/fetchAll.js"
+    "start": "node test.js"
+  },
+  "dependencies": {
+    "bloom-filters": "^3.0.4"
   }
 }
