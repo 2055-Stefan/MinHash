@@ -7,6 +7,7 @@
     "start": "node test.js"
   },
   "dependencies": {
-    "bloom-filters": "^3.0.4"
+    "bloom-filters": "^3.0.4",
+    "node-fetch": "^3.3.2"
   }
 }

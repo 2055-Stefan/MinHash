@@ -1,12 +1,9 @@
 services:
   node:
-    image: "node:22"
-    user: "node"
-    working_dir: /home/node/app
-    environment:
-      - NODE_ENV=production
+    image: "ubuntu-node-app"
+    working_dir: /usr/src/app
     volumes:
-      - ./:/home/node/app
+      - ./:/usr/src/app
     ports:
       - "8888:8888"
-    command: ["sh", "-c", "npm install node-fetch && npm install && npm start"]
+
