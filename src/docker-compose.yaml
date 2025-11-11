@@ -1,13 +1,12 @@
-version: "3"
 services:
   node:
-    build: .  # Docker-Image aus dem aktuellen Verzeichnis bauen (nutzt das Dockerfile)
-    user: "node"  # Standardbenutzer für Node.js-Container
-    working_dir: /home/node/app  # Arbeitsverzeichnis im Container
+    image: "node:22"
+    user: "node"
+    working_dir: /home/node/app
     environment:
-      - NODE_ENV=production  # Setzt die Umgebungsvariable NODE_ENV auf 'production'
+      - NODE_ENV=production
     volumes:
-      - ./:/home/node/app  # Bindet das lokale Verzeichnis an das Container-Verzeichnis
+      - ./:/home/node/app
     ports:
-      - "8888:8888"  # Exponiert den Port 8888 auf deinem Host-System
-    command: ["npm", "start"]  # Führt "npm start" aus, um die Anwendung zu starten
+      - "8888:8888"
+    command: ["sh", "-c", "npm install node-fetch && npm install && npm start"]
