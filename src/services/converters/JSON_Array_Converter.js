@@ -12,7 +12,7 @@ async function main() {
     const focusIds = focus.skills.map(s => s.uid);
 
     console.log("=== Focus SkillSet (CMS Certified Developer 13) ===");
-    console.log("focusIds =", focusIds);
+    console.log("focusIds =", focus.skills);
     console.log(`Anzahl: ${focusIds.length}\n`);
 
     // 2 Beispielhafte Lernressource laden (z. B. UID 2849)
