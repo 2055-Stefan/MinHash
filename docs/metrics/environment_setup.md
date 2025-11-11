@@ -19,7 +19,7 @@
 - Aufgrund der Volatilität des Projekts werden manche Dokumente im Setup geändert werden
 - Das Dokument *HSH_EnvironmentSetup_x.y* (x.y entspricht jetzt 1.1) dient nur zur Abgabe und befindet sich auf Teams
 - Das Dokument *environment_setup* im Ordner /docs/metrics ist die zu verwendene und aktuellste Version des Dokuments und befindet sich auf GitHub (bzw. nach git clone auch lokal)
-- Bei Änderungen (z.B. Erstellung neuer Ordner im Root VZ; Anpassung D) im Grundsetup, welche die Anpassung des environment_setups erfordern, soll der Projektleiter konsultiert werden - siehe HSH_Spielregeln_v.2.1 im Abschnitt 2.2 Veränderungsmanagement
+- Bei Änderungen (z.B. Erstellung neuer Ordner im Root VZ; Anpassung Docker-Dateien) im Grundsetup, welche die Anpassung des environment_setups erfordern, soll der Projektleiter konsultiert werden - siehe HSH_Spielregeln_v.2.1 im Abschnitt 2.2 Veränderungsmanagement
 
 **Julian Höher**  
 - Erstellung des NodeJS-Docker-Setup in /src

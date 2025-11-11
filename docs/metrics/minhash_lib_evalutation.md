@@ -102,5 +102,5 @@ Es wird empfohlen, **callidon/bloom-filters** als Standardbibliothek für die Im
 ---
 
 **Dateiablage:**  
-Teams: `03_technischePlanung/abnahme/HSH_BibliotheksEvaluierung_v1.1.md`  
+Teams: `03_technischePlanung/abnahme/HSH_Bibliotheksevaluierung_v1.1.md`  
 GitHub: `docs/metrics/minhash_lib_evaluation.md`
