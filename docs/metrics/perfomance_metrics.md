@@ -136,30 +136,7 @@ Ein Testlauf mit den Demodaten überprüft:
 
 ---
 
-## 8. Ablage
-
-**Teams:**  
-`03_technischePlanung/abnahme/performance_metrics.md`
-
-**GitHub:**  
-
-docs/
-└─ metrics/
-├─ performance_metrics.md → Definition der Metriken
-├─ performance_results.md → Messergebnisse (später)
-└─ environment_setup.md → System- und Toolbeschreibung
-data/
-└─ results/
-├─ raw/<timestamp>/ → Einzelmessungen (automatisch)
-└─ processed/performance_summary.json
-
-
-*Hinweis:*  
-Die Trennung von `/docs/metrics` (Definitionen & Ergebnisse) und `/data/results` (Messdaten) ermöglicht reproduzierbare Analysen und saubere Versionskontrolle innerhalb des GitHub-Repositories.
-
----
-
-## 9. Referenzen
+## 8. Referenzen
 
 - *HSH_Projektziele_v2.1* → MZ03 „Performance-Messung“  
 - *HSH_Machbarkeitsanalyse_v1.3* → Bewertung der Performance  
@@ -168,4 +145,6 @@ Die Trennung von `/docs/metrics` (Definitionen & Ergebnisse) und `/data/results`
 
 ---
 
-**Dateiablage:** `docs/metrics/performance_metrics.md`
+**Dateiablage:**  
+Teams: `03_technischePlanung/abnahme/HSH_perfomance_metrics_v1.1.md`  
+GitHub: `docs/metrics/performance_metrics.md`
