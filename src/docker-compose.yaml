@@ -1,12 +1,13 @@
+version: "3"
 services:
   node:
-    image: "node:22"
-    user: "node"
-    working_dir: /home/node/app
+    build: .  # Docker-Image aus dem aktuellen Verzeichnis bauen (nutzt das Dockerfile)
+    user: "node"  # Standardbenutzer für Node.js-Container
+    working_dir: /home/node/app  # Arbeitsverzeichnis im Container
     environment:
-      - NODE_ENV=production
+      - NODE_ENV=production  # Setzt die Umgebungsvariable NODE_ENV auf 'production'
     volumes:
-      - ./:/home/node/app
-    ports: # use if it is necessary to expose the container to the host machine
-      - "8888:8888"
-    command: ["npm", "start"] #start - siehe package.json JSON_Array_Converter.js wird per docker-compose up  ausgeführt ergebnis in console
+      - ./:/home/node/app  # Bindet das lokale Verzeichnis an das Container-Verzeichnis
+    ports:
+      - "8888:8888"  # Exponiert den Port 8888 auf deinem Host-System
+    command: ["npm", "start"]  # Führt "npm start" aus, um die Anwendung zu starten
