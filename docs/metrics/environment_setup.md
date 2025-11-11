@@ -155,4 +155,6 @@ docker-compose up
 
 ---
 
-**Dateiablage:** `docs/metrics/environment_setup.md`
+**Dateiablage:**  
+Teams: `03_technischePlanung/abnahme/HSH_Grundsetup_v1.1.md`  
+GitHub: `docs/metrics/environment_setup.md`
