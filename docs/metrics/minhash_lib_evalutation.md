@@ -2,127 +2,105 @@
 
 ---
 
-**Projekttitel:** MinHash <HSH>  
-**Auftraggeber*in:** Herr Prof. Weiss | Frau Prof. Scherer / HTL Rennweg  
-**Auftragnehmer*in:** Stefan Scheer | Christian Kleeber | Julian Höher | Leonardo Lin / HTL Rennweg  
-**Schuljahr:** 2025/26  **Klasse:** 4BI  
+**Projekttitel:** MinHash <HSH>
+**Auftraggeber*in:** Herr Prof. Weiss | Frau Prof. Scherer / HTL Rennweg
+**Auftragnehmer*in:** Stefan Scheer | Christian Kleeber | Julian Höher | Leonardo Lin / HTL Rennweg
+**Schuljahr:** 2025/26  **Klasse:** 4BI
 
 ---
 
-**VERSION:** v1.0  **DATUM:** 01.11.2025  **AUTORIN/AUTOR:** Stefan Scheer  **ÄNDERUNG:** Erstellung der Bibliotheksbewertung
+**VERSION:** v1.0  **DATUM:** 01.11.2025  **AUTOR:** Stefan Scheer  **ÄNDERUNG:** Erstellung der Bibliotheksbewertung  
+**VERSION:** v1.1  **DATUM:** 09.11.2025  **AUTOR:** Stefan Scheer  **ÄNDERUNG:** Erweiterung um Bewertung, Test und Empfehlung
 
 ---
 
 ## 1. Ziel des Dokuments
-Ziel dieses Arbeitspakets (1.2.2.4) ist die Recherche und Bewertung geeigneter JavaScript-Bibliotheken für den Einsatz eines MinHash-Algorithmus im Projekt *MinHash <HSH>*.  
-Die Untersuchung umfasst mindestens drei Bibliotheken und bewertet sie nach den Kriterien  
-**Performance, Lizenz, Wartung und Kompatibilität mit SkillDisplay-APIs**.  
-Die Ergebnisse dienen als Entscheidungsgrundlage für das nachfolgende Arbeitspaket *1.2.3.4 – MinHash-Bibliothek integrieren und anpassen*.
+
+Ziel dieses Dokuments ist die Recherche, Analyse und Bewertung geeigneter **JavaScript-MinHash-Bibliotheken** für die Integration im Projekt *MinHash <HSH>* (SkillDisplay Optimierung). Dabei sollen Performance, Wartung, Lizenz und Kompatibilität mit den SkillDisplay-APIs verglichen werden, um eine fundierte Empfehlung für die Integration (AP 1.2.3.4) zu treffen.
 
 ---
 
 ## 2. Vorgehensweise
 
-1. Recherche auf **npm** und **GitHub** nach JavaScript-Bibliotheken, die MinHash oder verwandte Hashing-Verfahren implementieren.  
-2. Sichtung der jeweiligen **Dokumentation**, **API-Beispiele** und **Community-Aktivität**.  
-3. Analyse der **Lizenzbedingungen** (MIT, Apache, ISC etc.) auf Kompatibilität mit den Schulprojektrichtlinien.  
-4. Bewertung anhand der Kriterien aus der Projektdefinition.  
-5. Erstellung einer Empfehlung zur Integration in das Projekt.
+Gemäß Arbeitspaket **1.2.2.7** wurden vorhandene MinHash-Implementierungen im JavaScript-Ökosystem untersucht. Die Recherche erfolgte über **npm Registry** und **GitHub Repositories**. Anschließend wurden die Bibliotheken anhand einheitlicher Kriterien bewertet und in einer Vergleichstabelle dokumentiert.
+
+Ein kurzer Funktionstest der bevorzugten Bibliothek (Proof of Concept) wurde vorbereitet, um grundlegende Funktionsweise und Kompatibilität zu überprüfen.
 
 ---
 
 ## 3. Bewertungskriterien
 
-- **Performance:** Algorithmische Effizienz, Laufzeit- und Speicherverhalten (theoretisch und praktisch).  
-- **Lizenz:** Rechtliche Eignung für schulische und ggf. kommerzielle Nutzung (bevorzugt MIT/Apache 2.0).  
-- **Wartung & Community:** Aktualität, Release-Historie, Anzahl an Commits/Issues.  
-- **Kompatibilität:** Einsetzbarkeit in Node.js und Browser, einfache JSON-Verarbeitung, keine nativen Abhängigkeiten.  
+* **Funktionsumfang:** Implementierung von MinHash, LSH, Signaturvergleich etc.
+* **Wartung & Community:** Aktivität auf GitHub, letzte Commits, Issue-Handling.
+* **Lizenz:** Kompatibilität mit Schul- und Open-Source-Projekten (MIT, Apache, ISC).
+* **Kompatibilität:** ESM/CJS, TypeScript-Unterstützung, Browser & Node.
+* **Performance:** Implementierungseffizienz, Hashingverfahren, Abhängigkeiten.
 
 ---
 
 ## 4. Evaluierte Bibliotheken
 
-### 4.1 duhaime/minhash (npm: `minhash`)
-- **Funktionalität:** MinHash-Signatur und LSH-Index.  
-- **Lizenz:** MIT.  
-- **Wartung:** Stabil, letzte Version 2018, geringe Aktivität.  
-- **Kompatibilität:** Reines JavaScript, funktioniert in Node und Browser.  
-- **Einschätzung:** Sehr geeignet für prototypische Integration, einfacher Einstieg, kein Build-Overhead.  
+| Bibliothek                  | Features                                                                                     | Lizenz     | Wartung/Activity                                | Kompatibilität                | Bewertung                |
+| --------------------------- | -------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------- | ----------------------------- | ------------------------ |
+| **callidon/bloom-filters**  | Enthält `MinHash` & `MinHashFactory`, zusätzlich Bloom Filter, HyperLogLog, Count-Min Sketch | MIT    | Aktiv, v3.0.4 (21.11.2024), ~427⭐, ~789 Used-by | TS, Node & Browser, ESM/CJS   | **Sehr gut – empfohlen** |
+| **duhaime/minhash**         | MinHash + LSH Index                                                                          | MIT        | Letztes Release 2018                            | Browser Bundle, kein TS       | Mittel – veraltet        |
+| **clement.train/minhashjs** | MinHash & LSH (Datasketch-Ansatz)                                                            | ISC        | 3 Jahre alt, kaum gepflegt                      | geringe Verbreitung           | Schwach                  |
+| **jdvorak/grouped-oph**     | Grouped One Permutation Hashing (OPH)                                                        | MIT     | Neu, geringe Nutzung                            | Nischig, komplexe Integration | Eingeschränkt            |
+| **shorn/node-minhash**      | CLI-Tool für Textvergleich (MinHash/Jaccard)                                                 | keine | Alt, keine SDK-Funktion                         | Nur CLI, kein TS              | Nicht geeignet           |
 
 ---
 
-### 4.2 F4llis/minhashjs (npm: `minhashjs`)
-- **Funktionalität:** Portierung der Python-Bibliothek *datasketch*, bietet LSH-Forest-Funktionen.  
-- **Lizenz:** Im README als *ISC*, auf GitHub als *MIT* angegeben → Klärung empfohlen.  
-- **Wartung:** Geringe Community-Aktivität, aber nachvollziehbarer Code.  
-- **Kompatibilität:** Reines JavaScript, einfache Einbindung möglich.  
-- **Einschätzung:** Technisch brauchbar, aber geringe Reife und unklare Lizenz.
+## 5. Test auf npm Hack
+
+Alle Bibliotheken wurden über npm auf Authentizität überprüft.  
+Keine Anzeichen für Sicherheitsrisiken oder  Supply-Chain-Angriffe. 
+Nur offizielle Registry-Links und GitHub-Repositories wurden verwendet.  
+Zur Bewertung wurde folgende Seite verwendet: https://security.snyk.io/  
+Für genauere Infos zu problematischen Abhängigkeiten:  
+https://security.snyk.io/package/npm/lodash  
+https://security.snyk.io/package/npm/long  
+...  
+Anmerkung: viele Dependencies haben keine Wartung und die Community ist bei vielen *limited*  
+Bei Lodash wurden in früheren Versionen Sicherheitslücken gefunden, die in der aktuellen Version behoben sind  
+**Lodash**: 0 Vulnerabilities in der letzten Version:  
+![Bild von 0 Vulnerabilities - Lodash](image.png)
+Alle geprüften Pakete verwenden keine bekannten „malicious code injections“ laut Snyk-Stand 09.11.2025.
 
 ---
 
-### 4.3 wherefortravel/minhash-node-rs (npm: `minhash-node-rs`)
-- **Funktionalität:** Hochperformante Implementierung in Rust (Node-Addon), inkl. LSH-Index.  
-- **Lizenz:** Offen, genaue Lizenz im Repository prüfen.  
-- **Wartung:** Regelmäßige Releases (z. B. 2022), produktiv bei WhereTo.com eingesetzt.  
-- **Kompatibilität:** Nur für Node-Umgebung, kein Browser-Support.  
-- **Einschätzung:** Sehr gute Performance, jedoch zusätzlicher Build-Aufwand.
+## 6. Bewertung
 
----
+**callidon/bloom-filters** bietet die breiteste Funktionalität, sehr gute Wartung, moderne TS-Implementierung und läuft sowohl in **Node** als auch im **Browser**. Die klare Versionierung und MIT-Lizenz garantieren rechtliche und technische Sicherheit.
 
-### 4.4 grouped-oph (npm)
-- **Funktionalität:** Implementiert Grouped One-Permutation-Hashing (optimierte Variante von MinHash).  
-- **Lizenz:** Noch prüfen, Paket neu (Veröffentlichung August 2025).  
-- **Wartung:** Sehr jung, daher noch unbewertet.  
-- **Kompatibilität:** Potenziell effizient, aber ungetestet.  
-- **Einschätzung:** Forschungs- bzw. Testkandidat, nicht für Produktion vorgesehen.
-
----
-
-## 5. Abgrenzung
-Nicht berücksichtigt wurden **SimHash-Bibliotheken** (`simhash`, `simhash-js`), da sie auf einer anderen Ähnlichkeitsmethode basieren und kein MinHash-Verfahren implementieren.
-
----
-
-## 6. Bewertung (Kurzfassung)
-
-- **duhaime/minhash:** +Einfach, +Browser/Node, +MIT, –ältere Wartung  
-- **minhashjs:** +API-ähnlich, –Lizenz unklar, –wenig getestet  
-- **minhash-node-rs:** +Schnell, +aktiv, –nur Node, –Build nötig  
-- **grouped-oph:** +modern, –neu, –geringe Stabilität  
+**duhaime/minhash** und **minhashjs** sind funktional, aber technisch überholt. **jdvorak/grouped-oph** ist experimentell, **shorn/node-minhash** dient nicht als Lib.
 
 ---
 
 ## 7. Empfehlung
-Für das Projekt *MinHash <HSH>* wird empfohlen, zunächst die Bibliothek  
-**`duhaime/minhash`** zu integrieren, da sie:  
-- eine **klare MIT-Lizenz** besitzt,  
-- **Node und Browser** unterstützt,  
-- eine **einfache API** mit LSH-Funktionen bietet,  
-- **keine nativen Abhängigkeiten** erfordert.  
 
-Für spätere Optimierungen kann **`minhash-node-rs`** als performantere, serverseitige Alternative untersucht werden.  
-Die Pakete **`minhashjs`** und **`grouped-oph`** werden derzeit nicht weiterverfolgt.
+Es wird empfohlen, **callidon/bloom-filters** als Standardbibliothek für die Implementierung des MinHash-Verfahrens in AP **1.2.3.4** zu verwenden.
 
----
+**Gründe:**
 
-## 8. Ergebnisprotokoll / Fortschritt
-- 0 % – Voraussetzungen erfüllt, Zugriff auf npm und Demo-Daten vorhanden.  
-- 25 % – Bibliotheken recherchiert, Bewertungskriterien definiert.  
-- 50 % – API-Tests und Dokumentationsprüfung abgeschlossen.  
-- 75 % – Lizenzprüfung und Bewertung abgeschlossen.  
-- 100 % – Empfehlung dokumentiert und zur Abnahme bereitgestellt.
+* Aktive Entwicklung & Wartung
+* TypeScript + Node/Browser kompatibel
+* MIT-Lizenz (rechtlich unbedenklich)
+* Gute Dokumentation und Community
+* Erweiterbar (weitere probabilistische Datenstrukturen)
 
 ---
 
-## 9. Referenzen
-- npm Registry (Stand: 01.11.2025)  
-- GitHub Repositories der Bibliotheken  
-- *HSH_Projektziele_v2.1* → MZ03 „Performance-Messung“  
-- *HSH_Machbarkeitsanalyse_v1.3* → Bewertung der Performance  
-- Arbeitspaket 1.2.2.7 – „Geeignete MinHash-Bibliothek recherchieren und evaluieren“
+## 8. Referenzen
+
+* callidon/bloom-filters (GitHub & npm)
+* duhaime/minhash (GitHub)
+* clement.train/minhashjs (npm)
+* jdvorak/grouped-oph (npm)
+* shorn/node-minhash (GitHub)
+* security.snyk.io
 
 ---
 
 **Dateiablage:**  
-Teams: `03_technischePlanung/abnahme/minhash_lib_evaluation.md`  
+Teams: `03_technischePlanung/abnahme/HSH_BibliotheksEvaluierung_v1.1.md`  
 GitHub: `docs/metrics/minhash_lib_evaluation.md`

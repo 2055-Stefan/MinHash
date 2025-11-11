@@ -1,4 +1,4 @@
-# Environment Setup – Performance Measurements (MinHash <HSH>)
+# Grundsetup
 
 ---
 
@@ -9,111 +9,152 @@
 
 ---
 
-**VERSION:** v1.0  **DATUM:** 31.10.2025  **AUTORIN/AUTOR:** Stefan Scheer  **ÄNDERUNG:** Erstellung
+**VERSION:** v1.0  **DATUM:** 31.10.2025  **AUTOR:** Stefan Scheer  **ÄNDERUNG:** Erstellung  
+**VERSION:** v1.1  **DATUM:** 09.11.2025  **AUTOR:** Stefan Scheer  **ÄNDERUNG:** Erweiterung der VCS-Struktur sowie Bearbeitung einzelner Setup-Bestandteile
 
 ---
 
-## 1. Ziel des Dokuments
-Dieses Dokument beschreibt die technische Umgebung, Softwarevoraussetzungen und Werkzeuge, die für die Durchführung der Performance-Messungen im Projekt *MinHash <HSH>* erforderlich sind.  
-Es dient als Referenz für reproduzierbare Tests gemäß den Vorgaben aus `performance_metrics.md`.
+## 1. Anmerkungen zur Bearbeitung von *environment_setup*
+**Allgemein**
+- Aufgrund der Volatilität des Projekts werden manche Dokumente im Setup geändert werden
+- Das Dokument *HSH_EnvironmentSetup_x.y* (x.y entspricht jetzt 1.1) dient nur zur Abgabe und befindet sich auf Teams
+- Das Dokument *environment_setup* im Ordner /docs/metrics ist die zu verwendene und aktuellste Version des Dokuments und befindet sich auf GitHub (bzw. nach git clone auch lokal)
+- Bei Änderungen (z.B. Erstellung neuer Ordner im Root VZ; Anpassung D) im Grundsetup, welche die Anpassung des environment_setups erfordern, soll der Projektleiter konsultiert werden - siehe HSH_Spielregeln_v.2.1 im Abschnitt 2.2 Veränderungsmanagement
+
+**Julian Höher**  
+- Erstellung des NodeJS-Docker-Setup in /src
+- Erstellung `package.json`  
+- Überarbeitung GitHub-Struktur und Projektarchitektur.  
 
 ---
 
-## 2. Hardware
-- Prozessor: Intel i5 / AMD Ryzen 5 oder höher  
-- Arbeitsspeicher: mindestens 8 GB RAM  
-- Datenträger: SSD empfohlen (Lese-/Schreibgeschwindigkeit > 400 MB/s)  
-- Stromversorgung: stabil, keine Energiesparmodi während der Messung  
-- Netzwerkanbindung: nicht erforderlich (Offline-Testdaten)
+## 2. Ziel des Dokuments
+
+Dieses Dokument beschreibt die technische Umgebung, Software-Voraussetzungen und Projektstruktur für das Projekt MinHash insbesondere im Bereich *Performance Measurements*.  
+Es dient als Referenz, um eine einheitliche Entwicklungsumgebung sicherzustellen und die Messergebnisse reproduzierbar zu halten.
 
 ---
 
-## 3. Software
-- Betriebssystem: Windows 10/11 oder Ubuntu 22.04 LTS  
-- Node.js: Version 20 LTS  
-- npm: Version 10 oder höher  
-- Editor: VS Code oder WebStorm (beliebig)  
-- Versionsverwaltung: Git / GitHub  
-- Zusatzpakete:  
-  - `perf_hooks` (integriert in Node.js)  
-  - `fs` (Dateizugriff für Rohdatenexport)
+## 3. Hardware
+
+- **CPU:** Intel i5 / Ryzen 5 oder höher  
+- **RAM:** ≥ 8 GB  
+- **Datenträger:** SSD (> 400 MB/s)  
+- **Stromversorgung:** stabil, keine Energiesparmodi  
+- **Netzwerk:** erforderlich für SkillDisplay-API
 
 ---
 
-## 4. Projektstruktur
-Empfohlene Verzeichnisstruktur für die lokale Entwicklungsumgebung:
+## 4. Software
 
-project-root/
-├─ docs/
-│ └─ metrics/
-│ ├─ performance_metrics.md
-│ ├─ performance_results.md
-│ └─ environment_setup.md
+- **Betriebssystem:** Windows 10/11 oder Ubuntu 22.04 LTS  
+- **Node JS:** Version 22 LTS  
+- **npm:** 10 oder höher  
+- **Editor:** VS Code / WebStorm  
+- **Versionsverwaltung:** Git (GitHub Repository MinHash <HSH>)  
+- **Docker Compose:** v2 oder höher  
+- **Automatisch installierte Pakete:**  
+  - `node-fetch` (HTTP-Requests)  
+  - `fs` (Dateioperationen)
+
+---
+
+## 5. Projektstruktur (Stand v1.1)
+
+```
+MINHASH/
 ├─ data/
-│ ├─ demo/
-│ │ ├─ resources.json
-│ │ └─ skills.json
-│ └─ results/
-│ ├─ raw/
-│ └─ processed/
+│  ├─ demo/
+│  └─ results/
+│     ├─ raw/
+│     │  └─ <timestamp>/
+│     │     ├─ Focus_skillset.json
+│     │     ├─ Learning_skillset.json
+│     │     └─ Verifications.json
+│     └─ processed/
+├─ docs/
+│  └─ metrics/
+│     ├─ environment_setup.md
+│     ├─ performance_metrics.md
+│     ├─ performance_results.md
+│     └─ minhash_lib_evaluation.md 
 ├─ src/
-│ ├─ algorithms/
-│ │ ├─ jaccard.js
-│ │ └─ minhash.js
-│ └─ measure.js
-├─ package.json
+│  ├─ algorithms/
+│  ├─ services/
+│  │  ├─ fetch/
+│  │  ├─ converters/
+│  │  └─ fetchAll.js
+│  ├─ measure.js
+│  ├─ docker-compose.yaml
+│  ├─ package.json
+│  └─ test.js
 └─ README.md
-
+```
+**Hinweis:** Jeder Durchlauf der Fetch-Skripte erzeugt automatisch einen Zeitstempel-Ordner  
+(z. B. `2025-11-09_18-42-03`), um Ergebnisse reproduzierbar und nachvollziehbar zu speichern.
 
 ---
 
-## 5. Einrichtungsschritte
+## 6. Docker Compose Setup
+
+```yaml
+services:
+  node:
+    image: "node:22"
+    user: "node"
+    working_dir: /home/node/app
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./:/home/node/app
+    ports:
+      - "8888:8888"
+    command: ["sh", "-c", "npm install && npm start"]
+```
+
+**Start:**  
+```bash
+docker-compose up
+```
+➡ Automatischer Durchlauf aller Fetch-Skripte, Speicherung im aktuellen Zeitstempel-Ordner.
+
+---
+
+## 7. Einrichtungsschritte
 
 1. Repository klonen  
-   `git clone <repo-url>`  
-
-2. Abhängigkeiten installieren  
-   `npm install`
-
-3. Datenstruktur prüfen  
-   Vergewissere dich, dass die Demo-Daten in `/data/demo/` vorhanden sind.
-
-4. Testskript vorbereiten  
-   In `src/measure.js` Zeit- und Speicher-Messung implementieren.
-
-5. Messung starten  
-   `node src/measure.js`
-
-6. Ergebnisse prüfen  
-   - Rohdaten unter `/data/results/raw/`  
-   - Auswertung in `/data/results/processed/`
+   ```bash
+   git clone https://github.com/2055-Stefan/MinHash.git
+   cd MinHash
+   ```
+2. Container starten  
+   ```bash
+   docker-compose up
+   ```
+3. Ergebnisse prüfen  
+   → JSON-Dateien unter `data/results/raw/<timestamp>/`  
+4. Performance-Messung vorbereiten  
+   → `measure.js` verarbeitet diese Daten für MZ03
 
 ---
 
-## 6. Validierung der Umgebung
-Vor jeder Messreihe:  
-- Node.js-Version prüfen: `node -v`  
-- CPU-Auslastung unter 90 % halten  
-- keine parallelen Prozesse (Browser, IDE-Tasks)  
-- identische Startbedingungen für Jaccard- und MinHash-Tests
+## 8. Validierung der Umgebung
+
+- Node-Version prüfen (`node -v`)  
+- CPU-Auslastung < 90 %  
+- keine parallelen Prozesse  
+- identische Testbedingungen für Jaccard und MinHash
 
 ---
 
-## 7. Pflege und Versionierung
-- Änderungen an dieser Datei nur nach Absprache mit der Projektleitung  
-- Versionsnummer erhöhen bei jeder Anpassung der Umgebung  
-- Freigabe über Jour Fixe dokumentieren
+## 9. Referenzen
 
----
-
-## 8. Referenzen
-- `performance_metrics.md` – Definition der Messgrößen  
-- `performance_results.md` – Messergebnisse  
+- *HSH_Projektziele_v2.1* – MZ03 „Performance-Messung“  
+- *HSH_Machbarkeitsanalyse_v1.3* – Alternative 3 „externe Bibliothek“  
 - *HSH_Spielregeln_v2.1* – Dokumentenablage und Versionierung  
-- *HSH_Projektziele_v2.1* → MZ03 „Performance-Messung“
 
 ---
 
 **Dateiablage:**  
-`docs/metrics/environment_setup.md`
-
+Teams: `03_technischePlanung/abnahme/HSH_Grundsetup_v1.1.md`  
+GitHub: `docs/metrics/environment_setup.md`
