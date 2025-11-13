@@ -9,7 +9,7 @@
 
 ---
 **VERSION:** v1.0  **DATUM:** 31.10.2025  **AUTORIN/AUTOR:** Stefan Scheer  **ÄNDERUNG:** Erstellung  
-**VERSION:** v1.1  **DATUM:** 11.11.2025  **AUTOR:** Stefan Scheer  **ÄNDERUNG:** Anpassung an aktualisiertes Grundsetup und Node-Compose-Umgebung  
+**VERSION:** v1.1  **DATUM:** 11.11.2025  **AUTORIN/AUTOR:** Stefan Scheer  **ÄNDERUNG:** Anpassung an aktualisiertes Grundsetup und Node-Compose-Umgebung  
 
 ---
 
@@ -79,7 +79,7 @@ Bewertung der Reproduzierbarkeit.
 
 **Software:**  
 - Betriebssystem: Windows 10/11 oder Ubuntu 22.04 LTS  
-- Node.js v22 LTS, npm ≥ 10  
+- Node.js 24, npm ≥ 10  
 - Docker Compose v2 oder höher  
 - JavaScript (ES6, Node-Standardbibliotheken)  
 
@@ -141,5 +141,5 @@ Ein Testlauf mit den Demodaten überprüft:
 ---
 
 **Dateiablage:**  
-Teams: `03_technischePlanung/abnahme/HSH_perfomance_metrics_v1.1.md`  
+Teams: `03_technischePlanung/abnahme/HSH_performance_metrics_v1.1.md`  
 GitHub: `docs/metrics/performance_metrics.md`
