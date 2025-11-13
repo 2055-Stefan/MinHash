@@ -39,11 +39,6 @@ Einheit: Millisekunden
 Messmethode: `performance.now()` (Start-/End-Differenz)  
 Bedeutung: Primäre Kennzahl der Performance.
 
-**t_filter**  
-Zeit für Filterung irrelevanter Ressourcen.  
-Einheit: Millisekunden  
-Messmethode: Zeitmessung vor/nach Filterung.
-
 **t_compare**  
 Zeit für Vergleichsalgorithmus (Jaccard bzw. MinHash).  
 Einheit: Millisekunden  
