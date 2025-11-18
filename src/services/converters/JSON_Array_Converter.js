@@ -6,14 +6,13 @@ async function fetchJson(url) {
     return res.json();
 }
 
-async function main() {
-    // 1️ Focus SkillSet laden
+async function converting() {
     const focus = await fetchJson(`${BASE}/skillset/1096`);
     const focusIds = focus.skills.map(s => s.uid);
 
-    console.log("=== Focus SkillSet (CMS Certified Developer 13) ===");
-    console.log("focusIds =", focus.skills);
-    console.log(`Anzahl: ${focusIds.length}\n`);
+    console.log("focusIDs =", JSON.stringify(focusIds, null, 2));
+
+    //console.log(`Anzahl: ${focusIds.length}\n`);
 
     // 2 Beispielhafte Lernressource laden (z. B. UID 2849)
     const learner = await fetchJson(`${BASE}/skillset/2849`);
@@ -25,7 +24,6 @@ async function main() {
     console.log("setB =", setB);
     console.log(`Anzahl: ${setB.length}\n`);
 
-    console.log("Beispiel: jaccard(focusIds, setB)");
 }
 
-main().catch(err => console.error("Fehler:", err.message));
+converting().catch(err => console.error("Fehler:", err.message));
