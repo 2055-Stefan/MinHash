@@ -6,24 +6,34 @@ async function fetchJson(url) {
     return res.json();
 }
 
-async function converting() {
+// --- Exportierte Arrays ---
+export let focusIds = [];
+export let learningSkillsetIds = [];
+
+export async function loadFocusAndLearningIds() {
+    // 1) Focus SkillSet laden
     const focus = await fetchJson(`${BASE}/skillset/1096`);
-    const focusIds = focus.skills.map(s => s.uid);
+    focusIds = focus.skills.map(s => s.uid);
 
-    console.log("focusIDs =", JSON.stringify(focusIds, null, 2));
+    // 2) Organisation laden und Learning SkillSets filtern
+    const org = await fetchJson(`${BASE}/organisation/1`);
+    learningSkillsetIds = (org.skillSets ?? [])
+        .filter(ss =>
+            ss.firstCategoryTitle === "Learner" ||
+            ss.firstCategoryTitle === "Education"
+        )
+        .map(ss => ss.uid);
 
-    //console.log(`Anzahl: ${focusIds.length}\n`);
+    // --- Ausgabe in der Konsole ---
+    console.log("=== Focus Skill IDs ===");
+    console.log(focusIds);
+    console.log(`Anzahl: ${focusIds.length}\n`);
 
-    // 2 Beispielhafte Lernressource laden (z. B. UID 2849)
-    const learner = await fetchJson(`${BASE}/skillset/2849`);
-    const setB = learner.skills.map(s => s.uid);
+    console.log("=== Learning SkillSet IDs ===");
+    console.log(learningSkillsetIds);
+    console.log(`Anzahl: ${learningSkillsetIds.length}\n`);
 
-    console.log("=== Beispiel Lernressource ===");
-    console.log(`Name: ${learner.name}`);
-    console.log(`UID: ${learner.uid}`);
-    console.log("setB =", setB);
-    console.log(`Anzahl: ${setB.length}\n`);
-
+    return { focusIds, learningSkillsetIds };
 }
 
-converting().catch(err => console.error("Fehler:", err.message));
+loadFocusAndLearningIds();
