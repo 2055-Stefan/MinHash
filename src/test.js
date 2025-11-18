@@ -1,20 +1,20 @@
-const {MinHashFactory} = require('bloom-filters')
+const { MinHashFactory } = require('bloom-filters')
+function CalculateMinHash(arrA, arrB) {
 
-// create the MinHashFactory, to create several comparable MinHash sets
-// it uses 10 random hash functions and expect to see a maximum value of 999
-const factory = new MinHashFactory(10, 999)
+const factory = new MinHashFactory(100, 4000)
 
-// create two empty MinHash
-const fistSet = factory.create()
-const secondSet = factory.create()
+const { performance } = require('node:perf_hooks')
+const start = performance.now()
 
-// push some occurrences in the first set
-fistSet.add(1)
-fistSet.add(2)
+const setA = factory.create()
+const setB = factory.create()
 
-// the MinHash class also supports bulk loading
-secondSet.bulkLoad([1, 3, 4])
+setA.bulkLoad(arrA)
+setB.bulkLoad(arrB)
 
-// estimate the jaccard similarity between the two sets
-const jaccardSim = fistSet.compareWith(secondSet)
-console.log(`The estimated Jaccard similarity is ${jaccardSim}`)
+const sim = setA.compareWith(setB)
+const end = performance.now()
+
+console.log("Estimated Jaccard similarity:", sim)
+console.log(`Time: ${(end - start).toFixed(5)} ms`)
+}
