@@ -23,16 +23,6 @@ export async function loadFocusAndLearningIds() {
             ss.firstCategoryTitle === "Education"
         )
         .map(ss => ss.uid);
-
-    // --- Ausgabe in der Konsole ---
-    console.log("=== Focus Skill IDs ===");
-    console.log(focusIds);
-    console.log(`Anzahl: ${focusIds.length}\n`);
-
-    console.log("=== Learning SkillSet IDs ===");
-    console.log(learningSkillsetIds);
-    console.log(`Anzahl: ${learningSkillsetIds.length}\n`);
-
     return { focusIds, learningSkillsetIds };
 }
 
