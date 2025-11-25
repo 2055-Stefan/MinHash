@@ -1,9 +1,11 @@
 import pkg from 'bloom-filters';
 const { MinHashFactory } = pkg;
-import { loadFocusAndLearningIds, focusIds, learningSkillsetIds }
-    from './services/converters/JSON_Array_Converter.js';
 
-await loadFocusAndLearningIds();
+import focusData from '../data/JSON/focusSkillsetIds/focus_1.json' with { type: "json" };
+import learningData from '../data/JSON/learningSkillsetIds/learning_1.json' with { type: "json" };
+
+const focusIds = focusData.focusIds;
+const learningSkillsetIds = learningData.learningSkillsetIds;
 
 import { performance } from "node:perf_hooks";
 
@@ -23,6 +25,6 @@ function CalculateMinHash(arrA, arrB) {
     const sim = setA.compareWith(setB)
     const end = performance.now()
 
-    console.log("Estimated Jaccard similarity:", sim)
+    console.log("Estimated similarity (MinHash):", sim)
     console.log(`Time: ${(end - start).toFixed(5)} ms`)
 }
