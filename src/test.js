@@ -9,22 +9,38 @@ const learningSkillsetIds = learningData.learningSkillsetIds;
 
 import { performance } from "node:perf_hooks";
 
-CalculateMinHash(focusIds,learningSkillsetIds);
+CalculateMinHash(focusIds, learningSkillsetIds);
+
 function CalculateMinHash(arrA, arrB) {
 
-    const factory = new MinHashFactory(100, 4000)
+    const memBefore = process.memoryUsage().heapUsed;
 
-    const start = performance.now()
+    const totalStart = performance.now();
 
-    const setA = factory.create()
-    const setB = factory.create()
+    const compareStart = performance.now();
 
-    setA.bulkLoad(arrA)
-    setB.bulkLoad(arrB)
+    const factory = new MinHashFactory(100, 4000);
 
-    const sim = setA.compareWith(setB)
-    const end = performance.now()
+    const setA = factory.create();
+    const setB = factory.create();
 
-    console.log("Estimated similarity (MinHash):", sim)
-    console.log(`Time: ${(end - start).toFixed(5)} ms`)
+    setA.bulkLoad(arrA);
+    setB.bulkLoad(arrB);
+
+    const sim = setA.compareWith(setB);
+
+    const compareEnd = performance.now();
+
+    const totalEnd = performance.now();
+
+    const memAfter = process.memoryUsage().heapUsed;
+
+    const t_total = (totalEnd - totalStart).toFixed(5);
+    const t_compare = (compareEnd - compareStart).toFixed(5);
+    const mem_used = ((memAfter - memBefore) / 1024 / 1024).toFixed(5); // MB
+
+    console.log("Estimated similarity (MinHash):", sim);
+    console.log(`t_total:   ${t_total} ms`);
+    console.log(`t_compare: ${t_compare} ms`);
+    console.log(`mem_used:  ${mem_used} MB`);
 }
