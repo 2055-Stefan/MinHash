@@ -7,7 +7,7 @@ import { jaccardSimilarity } from "./jaccard.js";
 const IDS = [1, 3, 8, 55, 89];
 
 // MinHash Parameter
-const X = 2;
+const X_VALUES = [1, 32, 1024, 32768, 1048576];  // Array mit verschiedenen Werten für X
 const Y = 10000;
 
 // ------------------------------
@@ -16,8 +16,10 @@ const Y = 10000;
 function warmup() {
     const dummyA = [1, 2, 3];
     const dummyB = [3, 4, 5];
-    minhashSimilarity(dummyA, dummyB, X, Y);
-    jaccardSimilarity(dummyA, dummyB);
+    for (const X of X_VALUES) {  // Schleife für X-Werte
+        minhashSimilarity(dummyA, dummyB, X, Y);
+        jaccardSimilarity(dummyA, dummyB);
+    }
 }
 warmup();
 
@@ -43,35 +45,35 @@ function measure(fn) {
 // ------------------------------
 // Hauptausgabe – Excel-ready
 // ------------------------------
-console.log("A\tB\tMethode\tSimilarity\tZeit(ms)");
+console.log("X\tA\tB\tMethode\tSimilarity\tZeit(ms)");
 
-for (const a of IDS) {
-
-    const focusA = await import(
-        `./data/JSON/focusSkillsetIds/focus_${a}.json`,
-        { with: { type: "json" } }
-    );
-    const arrA = focusA.default.focusIds;
-
-    for (const b of IDS) {
-
-        const learningB = await import(
-            `./data/JSON/learningSkillsetIds/learning_${b}.json`,
+for (const X of X_VALUES) {  // Schleife für X-Werte
+    for (const a of IDS) {
+        const focusA = await import(
+            `./data/JSON/focusSkillsetIds/focus_${a}.json`,
             { with: { type: "json" } }
-        );
-        const arrB = learningB.default.learningSkillsetIds;
+            );
+        const arrA = focusA.default.focusIds;
 
-        // MinHash
-        const minR = measure(() =>
-            minhashSimilarity(arrA, arrB, X, Y)
-        );
+        for (const b of IDS) {
+            const learningB = await import(
+                `./data/JSON/learningSkillsetIds/learning_${b}.json`,
+                { with: { type: "json" } }
+                );
+            const arrB = learningB.default.learningSkillsetIds;
 
-        // Jaccard
-        const jacR = measure(() =>
-            jaccardSimilarity(arrA, arrB)
-        );
+            // MinHash
+            const minR = measure(() =>
+                minhashSimilarity(arrA, arrB, X, Y)
+            );
 
-        console.log(`${a}\t${b}\tMinHash\t${minR.similarity}\t${minR.time}`);
-        console.log(`${a}\t${b}\tJaccard\t${jacR.similarity}\t${jacR.time}`);
+            // Jaccard
+            const jacR = measure(() =>
+                jaccardSimilarity(arrA, arrB)
+            );
+
+            console.log(`${X}\t${a}\t${b}\tMinHash\t${minR.similarity}\t${minR.time}`);
+            console.log(`${X}\t${a}\t${b}\tJaccard\t${jacR.similarity}\t${jacR.time}`);
+        }
     }
 }
