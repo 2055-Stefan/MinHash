@@ -48,7 +48,7 @@ console.log("A\tB\tMethode\tSimilarity\tZeit(ms)");
 for (const a of IDS) {
 
     const focusA = await import(
-        `../data/JSON/focusSkillsetIds/focus_${a}.json`,
+        `./data/JSON/focusSkillsetIds/focus_${a}.json`,
         { with: { type: "json" } }
     );
     const arrA = focusA.default.focusIds;
@@ -56,7 +56,7 @@ for (const a of IDS) {
     for (const b of IDS) {
 
         const learningB = await import(
-            `../data/JSON/learningSkillsetIds/learning_${b}.json`,
+            `./data/JSON/learningSkillsetIds/learning_${b}.json`,
             { with: { type: "json" } }
         );
         const arrB = learningB.default.learningSkillsetIds;
