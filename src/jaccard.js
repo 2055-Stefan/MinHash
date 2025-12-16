@@ -1,17 +1,29 @@
 // jaccard.js
 
-export function jaccardSimilarity(arrA, arrB) {
-    const setA = new Set(arrA);
-    const setB = new Set(arrB);
-
-    let intersection = 0;
-
-    for (const id of setA) {
-        if (setB.has(id)) {
-            intersection++;
-        }
+// Vorgegebene Logik (SkillSet + desired IDs)
+function jaccardSkillset(skillset, desiredSkillIdsWithoutVerification) {
+    if (skillset.skills === undefined) {
+        return 0;
     }
 
-    const union = new Set([...setA, ...setB]).size;
-    return intersection / union;
+    const setB = skillset.skills.map(skill => skill.uid);
+
+    const intersectionSizeAB =
+        desiredSkillIdsWithoutVerification.filter(value =>
+            setB.includes(value)
+        ).length;
+
+    const unionSizeAB =
+        new Set([...desiredSkillIdsWithoutVerification, ...setB]).size;
+
+    return intersectionSizeAB / unionSizeAB;
+}
+
+// Adapter für measure.js (Array + Array)
+export function jaccardSimilarity(arrA, arrB) {
+    const fakeSkillset = {
+        skills: arrB.map(uid => ({ uid }))
+    };
+
+    return jaccardSkillset(fakeSkillset, arrA);
 }
