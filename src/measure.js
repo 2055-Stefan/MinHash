@@ -1,29 +1,47 @@
-// measure.js
 import { performance } from "node:perf_hooks";
-import { jaccardSimilarity } from "./jaccard.js";
 import { jaccardOptimized } from "./jaccard_new.js";
-
-// IDs sind fix (nur diese Dateien existieren)
-const IDS = [1, 3, 8, 55, 89];
+import { minhashSimilarity } from "./minhash.js";
 
 // ------------------------------
-// Warmup – nicht loggen
+// KONFIG
+// ------------------------------
+const X = 89; // fixer Datensatz
+const K_VALUES = [1, 8, 32, 64, 256, 1024, 32768, 1048576]; // Hashfunktionen
+const MAX_HASH = 2 ** 32;
+
+// ------------------------------
+// JSON laden
+// ------------------------------
+const focus = await import(
+    `./data/JSON/focusSkillsetIds/focus_${X}.json`,
+    { with: { type: "json" } }
+);
+const learning = await import(
+    `./data/JSON/learningSkillsetIds/learning_${X}.json`,
+    { with: { type: "json" } }
+);
+
+const arrA = focus.default.focusIds;
+const arrB = learning.default.learningSkillsetIds;
+
+// ------------------------------
+// WARMUP (NICHT LOGGEN)
 // ------------------------------
 function warmup() {
-    const dummyA = [1, 2, 3];
-    const dummyB = [3, 4, 5];
-    jaccardSimilarity(dummyA, dummyB);
-    jaccardOptimized(dummyA, dummyB);
+    // Jaccard mehrfach
+    for (let i = 0; i < 20; i++) {
+        jaccardOptimized(arrA, arrB);
+    }
+
+    // MinHash einmal pro k
+    for (const k of K_VALUES) {
+        minhashSimilarity(arrA, arrB, k, MAX_HASH);
+    }
 }
 warmup();
 
-// DE-Komma statt Punkt
-function de(num) {
-    return String(num).replace(".", ",");
-}
-
 // ------------------------------
-// Zeitmessung
+// Hilfsfunktionen
 // ------------------------------
 function measure(fn) {
     const start = performance.now();
@@ -31,43 +49,42 @@ function measure(fn) {
     const end = performance.now();
 
     return {
-        similarity: de(result),
-        time: de((end - start).toFixed(5))
+        similarity: result,
+        time: +(end - start).toFixed(5)
     };
 }
 
-// ------------------------------
-// Hauptausgabe – Excel-ready
-// ------------------------------
-console.log("A\tB\tMethode\tSimilarity\tZeit(ms)");
+function de(num) {
+    return String(num).replace(".", ",");
+}
 
-for (const a of IDS) {
+// ------------------------------
+// REFERENZ: Jaccard
+// ------------------------------
+const jac = measure(() =>
+    jaccardOptimized(arrA, arrB)
+);
 
-    const focusA = await import(
-        `./data/JSON/focusSkillsetIds/focus_${a}.json`,
-        { with: { type: "json" } }
+// ------------------------------
+// AUSGABE (Excel-ready)
+// ------------------------------
+console.log("Art\tk\tSimilarity\tZeit(ms)\tError");
+
+console.log(
+    `Jaccard_Optimized\t-\t${de(jac.similarity)}\t${de(jac.time)}\t0`
+);
+
+// ------------------------------
+// MinHash-Messungen
+// ------------------------------
+for (const k of K_VALUES) {
+    const mh = measure(() =>
+        minhashSimilarity(arrA, arrB, k, MAX_HASH)
     );
-    const arrA = focusA.default.focusIds;
 
-    for (const b of IDS) {
+    const error = Math.abs(jac.similarity - mh.similarity);
 
-        const learningB = await import(
-            `./data/JSON/learningSkillsetIds/learning_${b}.json`,
-            { with: { type: "json" } }
-        );
-        const arrB = learningB.default.learningSkillsetIds;
-
-        // Jaccard (vorgegeben)
-        const jacOld = measure(() =>
-            jaccardSimilarity(arrA, arrB)
-        );
-
-        // Jaccard (optimiert)
-        const jacNew = measure(() =>
-            jaccardOptimized(arrA, arrB)
-        );
-
-        console.log(`${a}\t${b}\jaccardSimilarity\t${jacOld.similarity}\t${jacOld.time}`);
-        console.log(`${a}\t${b}\tJaccard_Optimized\t${jacNew.similarity}\t${jacNew.time}`);
-    }
+    console.log(
+        `MinHash\t${k}\t${de(mh.similarity)}\t${de(mh.time)}\t${de(error)}`
+    );
 }
