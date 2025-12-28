@@ -1,7 +1,7 @@
 // measure.js
 import { performance } from "node:perf_hooks";
-import { jaccardSimilarity } from "./jaccard.js";
-import { jaccardOptimized } from "./jaccard_new.js";
+import { jaccardSimilarity } from "../../src/jaccard.js";
+import { jaccardOptimized } from "../../src/jaccard_new.js";
 
 // IDs sind fix (nur diese Dateien existieren)
 const IDS = [1, 3, 8, 55, 89];

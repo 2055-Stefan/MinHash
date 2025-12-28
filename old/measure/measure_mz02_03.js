@@ -3,7 +3,7 @@ import { performance } from "node:perf_hooks";
 import fs from "fs";
 import path from "path";
 
-import { jaccardOptimized } from "./jaccard_new.js";
+import { jaccardOptimized } from "../../src/jaccard_new.js";
 
 // ------------------------------
 // KONFIG

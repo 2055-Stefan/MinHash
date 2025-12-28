@@ -3,8 +3,8 @@ import { performance } from "node:perf_hooks";
 import fs from "fs";
 import path from "path";
 
-import { jaccardOptimized } from "./jaccard_new.js";
-import { minhashSimilarity } from "./minhash.js";
+import { jaccardOptimized } from "../../src/jaccard_new.js";
+import { minhashSimilarity } from "../../src/minhash.js";
 
 // ------------------------------
 // KONFIG
