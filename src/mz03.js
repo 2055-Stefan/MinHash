@@ -1,75 +1,139 @@
-import fs from 'fs';
-import { performance } from 'perf_hooks';
+// mz03.js
+// MZ03: Performance-Messung (nur Jaccard) – misst Filterung, Vergleich, Sortierung
+// Inputs:
+//  - ./data/input/focus/focusSkillIds.medium.json
+//  - ./data/output/learning/learningSkillsetsWithSkills.medium.json
+// Output:
+//  - ./data/output/mz03/jaccard_performance.json
+
+import fs from "fs";
+import path from "path";
+import { performance } from "perf_hooks";
+import { jaccardSimilarity } from "./jaccard.js";
 
 /* ===============================
-   Jaccard Similarity
+   Helpers
 ================================ */
-function jaccard(a, b) {
-  const setA = new Set(a);
-  const setB = new Set(b);
+function ensureDir(filePath) {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+}
 
-  let intersection = 0;
-  for (const x of setA) {
-    if (setB.has(x)) intersection++;
-  }
+function nowSec() {
+  return performance.now() / 1000;
+}
 
-  const union = setA.size + setB.size - intersection;
-  return union === 0 ? 0 : intersection / union;
+function isNonEmptyIntArray(arr) {
+  return Array.isArray(arr) && arr.length > 0 && arr.every(Number.isInteger);
 }
 
 /* ===============================
-   Input laden
+   Paths
 ================================ */
-const focusSkills = JSON.parse(
-  fs.readFileSync('./data/input/focus/focusSkillIds.medium.json', 'utf-8')
-).focusSkillIds;
-
-const learningResources = JSON.parse(
-  fs.readFileSync('./data/input/learning/learningSkillsetIds.medium.json', 'utf-8')
-).learningSkillsetIds;
-
-const resourceSkillSets = learningResources.map(id => [id]);
+const FOCUS_FILE = "./data/input/focus/focusSkillIds.medium.json";
+const LEARNING_WITH_SKILLS_FILE =
+  "./data/input/learning/learningSkillsetsWithSkills.medium.json";
+const OUTPUT_FILE = "./data/output/mz03/jaccard_performance.json";
 
 /* ===============================
-   Performance-Messung
+   Load Inputs
 ================================ */
-const t0 = performance.now();
+const focusSkills = JSON.parse(fs.readFileSync(FOCUS_FILE, "utf-8")).focusSkillIds;
+if (!isNonEmptyIntArray(focusSkills)) {
+  throw new Error("focusSkillIds fehlen oder sind leer/ungültig.");
+}
 
-// Vergleich
-const scores = resourceSkillSets.map(resourceSkills =>
-  jaccard(focusSkills, resourceSkills)
+const learningData = JSON.parse(
+  fs.readFileSync(LEARNING_WITH_SKILLS_FILE, "utf-8")
 );
 
-// Sortierung
-scores.sort((a, b) => b - a);
-
-const t1 = performance.now();
+const learningSkillsets = learningData.skillsets;
+if (!Array.isArray(learningSkillsets) || learningSkillsets.length === 0) {
+  throw new Error("learningData.skillsets fehlt oder ist leer.");
+}
 
 /* ===============================
-   Statistik
+   MZ03 Timings
+   - Filterung: welche Lernressourcen werden berücksichtigt?
+   - Vergleich: Jaccard berechnen
+   - Sortierung: nach Score sortieren
 ================================ */
-const totalTimeSec = (t1 - t0) / 1000;
-const perResourceSec = totalTimeSec / resourceSkillSets.length;
+
+// 1) Filterung (z.B. SkillSets ohne Skills raus)
+const tFilterStart = nowSec();
+
+const considered = learningSkillsets.filter(
+  (s) => Array.isArray(s.skillIds) && s.skillIds.length > 0
+);
+
+const tFilterEnd = nowSec();
+
+// 2) Vergleich (Jaccard über alle berücksichtigten Ressourcen)
+const tCompareStart = nowSec();
+
+const compared = considered.map((s) => {
+  const score = jaccardSimilarity(focusSkills, s.skillIds);
+  return {
+    skillsetId: s.skillsetId ?? null,
+    jaccardScore: score,
+  };
+});
+
+const tCompareEnd = nowSec();
+
+// 3) Sortierung (Relevanz)
+const tSortStart = nowSec();
+
+compared.sort((a, b) => b.jaccardScore - a.jaccardScore);
+
+const tSortEnd = nowSec();
+
+/* ===============================
+   Stats
+================================ */
+const filterTime = tFilterEnd - tFilterStart;
+const compareTime = tCompareEnd - tCompareStart;
+const sortTime = tSortEnd - tSortStart;
+
+const totalTime = filterTime + compareTime + sortTime;
+
+const consideredCount = considered.length;
+const perResourceSeconds =
+  consideredCount === 0 ? 0 : totalTime / consideredCount;
 
 const stats = {
-  input: {
-    focusSkills: focusSkills.length,
-    learningResources: resourceSkillSets.length
+  generatedAt: new Date().toISOString(),
+  inputs: {
+    focusFile: FOCUS_FILE,
+    learningFile: LEARNING_WITH_SKILLS_FILE,
+    focusSkillCount: focusSkills.length,
+    learningSkillsetCount: learningSkillsets.length,
   },
-  jaccardPerformance: {
-    totalTimeSeconds: totalTimeSec.toFixed(6),
-    timePerResourceSeconds: perResourceSec.toExponential(3)
-  }
+  considered: {
+    consideredLearningResources: consideredCount,
+    ignoredLearningResources: learningSkillsets.length - consideredCount,
+    reasonIgnored: "skillIds missing or empty",
+  },
+  timingsSeconds: {
+    filtering: Number(filterTime.toFixed(6)),
+    comparison: Number(compareTime.toFixed(6)),
+    sorting: Number(sortTime.toFixed(6)),
+    total: Number(totalTime.toFixed(6)),
+  },
+  perUnit: {
+    secondsPerLearningResource: Number(perResourceSeconds.toExponential(3)),
+  },
 };
 
 /* ===============================
    Output
 ================================ */
-fs.writeFileSync(
-  './output/mz03/jaccard_performance.json',
-  JSON.stringify(stats, null, 2),
-  'utf-8'
-);
+ensureDir(OUTPUT_FILE);
 
-console.log('MZ03 abgeschlossen');
-console.table(stats.jaccardPerformance);
+fs.writeFileSync(OUTPUT_FILE, JSON.stringify(stats, null, 2), "utf-8");
+
+console.log("✅ MZ03 abgeschlossen");
+console.log("Focus skills:", focusSkills.length);
+console.log("Learning skillsets (raw):", learningSkillsets.length);
+console.log("Learning resources (considered):", consideredCount);
+console.log("Output:", OUTPUT_FILE);
+console.table(stats.timingsSeconds);
