@@ -1,3824 +1,5075 @@
-[
-  {
-    "resourceSkills": [
-      2902
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3127
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3149
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2900
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3125
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3139
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3136
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3163
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3181
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3173
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3142
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2910
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2912
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3137
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2908
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3124
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3157
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3131
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3182
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3115
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3155
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3145
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3110
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3112
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3148
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3135
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3143
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3111
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3158
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2906
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3172
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3164
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2905
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3162
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3105
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3147
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2899
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3106
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2919
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3126
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3122
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3128
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2911
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3144
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3141
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3140
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3174
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3154
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3104
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3156
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3108
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2898
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3176
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3133
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3138
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3123
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2909
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3165
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2913
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3119
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3118
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3132
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3109
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3117
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3121
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3107
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3114
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2901
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3183
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2918
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3161
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3102
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3120
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3103
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3153
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3151
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2903
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3130
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3113
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3166
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3160
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2904
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2897
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3134
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2907
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      3146
-    ],
-    "jaccardScore": 0.005405405405405406
-  },
-  {
-    "resourceSkills": [
-      2849
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2861
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2858
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2964
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3335
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3396
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3346
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3085
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3297
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3050
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2999
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3349
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2874
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2891
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2931
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2815
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3278
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3210
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3321
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3046
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3175
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2767
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3324
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2768
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2786
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2808
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3267
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2804
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3223
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3018
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2807
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2779
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      1095
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      1096
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      1098
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      1097
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3273
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2840
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3369
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2782
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2928
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2828
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2998
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3002
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3358
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2848
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      848
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2789
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2892
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2852
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3214
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3191
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3064
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2825
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3003
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3251
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2996
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3087
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2871
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3220
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3386
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2948
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3308
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2959
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3249
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3217
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3198
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2755
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3024
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3095
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2864
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3221
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3343
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3347
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2993
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3192
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3187
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2914
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2819
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2824
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2870
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2934
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2867
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3365
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3030
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2857
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2986
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2920
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2927
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3038
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3186
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3004
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2883
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2875
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2876
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2820
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2966
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3196
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3022
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2783
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2794
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3084
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3079
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2758
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3028
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2784
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3340
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2949
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3253
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2817
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2869
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3033
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3315
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2836
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2987
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2854
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2766
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2796
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3081
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3204
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2957
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2956
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2765
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3054
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3326
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3407
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3197
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2850
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2821
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3096
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2806
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3334
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3092
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3333
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3371
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2790
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3023
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3066
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3235
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3263
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3008
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3167
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3317
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3336
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2860
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2845
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3062
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3193
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2962
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3073
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3049
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2832
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2972
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3052
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2853
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3327
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2971
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2788
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2772
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3201
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3043
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3041
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3280
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2917
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3200
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3100
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2835
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3005
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3261
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3316
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3303
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3185
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3207
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2965
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3292
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3325
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3331
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2915
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2895
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2989
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2801
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3312
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3236
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3416
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3420
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3404
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2967
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2785
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3168
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2774
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2773
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3266
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2893
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3226
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3035
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2829
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3354
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2938
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2868
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3080
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2792
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2771
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2759
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3025
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2787
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2942
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3296
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3194
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3016
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3228
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3227
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3394
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3310
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2837
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3093
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3006
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3058
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2816
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3206
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3288
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3338
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3313
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3065
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3011
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3056
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2826
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2975
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3375
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3398
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3239
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3029
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3370
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3258
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3387
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3362
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3409
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3284
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3400
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3270
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3393
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3364
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2970
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3403
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3401
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3356
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3399
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2764
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3188
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3255
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2887
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2997
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2863
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3061
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3244
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2822
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2762
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3027
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3014
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2834
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2776
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3424
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3426
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      1122
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3422
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      1121
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3423
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3428
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3427
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3431
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3432
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      1123
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3425
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3429
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3234
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2990
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3180
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2851
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3020
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3250
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2992
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3391
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3001
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2882
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3332
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2889
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3418
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3215
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3322
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2922
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2814
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3392
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2769
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2844
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3378
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3269
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2847
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3341
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3031
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3415
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2974
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2984
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3339
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3254
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3318
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3408
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2884
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3009
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3355
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2797
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3222
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3397
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3229
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3032
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2944
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2935
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3268
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2921
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3368
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2843
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3311
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3306
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2960
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3262
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3072
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2781
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2880
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3224
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3329
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3010
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2958
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2831
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3314
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3264
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3019
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2754
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2818
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2943
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3414
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3300
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3293
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2791
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2830
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2937
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3040
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3282
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2963
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2841
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3169
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3405
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2923
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2833
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2813
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2846
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2756
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3323
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2800
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2881
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2945
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2950
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2947
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2793
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3388
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3410
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3402
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3094
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2933
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2983
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3345
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3233
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3286
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3277
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3413
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2979
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3098
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2929
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3320
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3294
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3213
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3289
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3225
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3091
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3231
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2885
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3189
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3385
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3302
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3242
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3089
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3276
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3384
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3205
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3377
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3376
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3026
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3366
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3363
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2988
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2930
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3279
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2978
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3406
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3421
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3417
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3021
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3271
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3419
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3274
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2981
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2980
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2976
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3344
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2954
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2969
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3101
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3037
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2952
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3412
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3380
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3208
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3007
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3000
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3238
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3245
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3285
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3170
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2761
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2982
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3237
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3359
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3243
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2811
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3395
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2936
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3350
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2879
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2932
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3348
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2961
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2953
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3179
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2757
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2780
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2925
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3390
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3230
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3017
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3088
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3272
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2810
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2775
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3171
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2886
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3265
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3190
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2878
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3045
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2995
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2770
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2888
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3247
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3330
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3036
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2873
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2862
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3069
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3319
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3082
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3047
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2941
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3381
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2994
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3299
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3216
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3059
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2939
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3337
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3067
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3071
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3068
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3305
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2859
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3184
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3219
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2839
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3048
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2872
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2812
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2795
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2973
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2777
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2855
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2985
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3211
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3309
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3281
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3290
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3275
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2760
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3195
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3360
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3357
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2823
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3248
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3039
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3367
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3034
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3218
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2803
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3298
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2991
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3361
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3283
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3372
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3304
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2877
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3374
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3246
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2866
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3256
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3307
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3090
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3203
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3202
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3209
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3411
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3252
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3086
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2856
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2805
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3070
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3074
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3295
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2799
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3051
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2865
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3259
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3057
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3083
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3078
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2842
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2778
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3076
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3177
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3260
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2924
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2809
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3257
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2838
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      2951
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3240
-    ],
-    "jaccardScore": 0
-  },
-  {
-    "resourceSkills": [
-      3232
-    ],
-    "jaccardScore": 0
-  }
-]
+{
+  "generatedAt": "2025-12-29T00:12:53.771Z",
+  "inputs": {
+    "focusFile": "./data/input/focus/focusSkillIds.medium.json",
+    "learningFile": "./data/input/learning/learningSkillsetsWithSkills.medium.json",
+    "focusSkillCount": 185,
+    "learningSkillsetCount": 633
+  },
+  "results": [
+    {
+      "skillsetId": 2884,
+      "name": "TYPO3 Core API: Models in Extbase:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 3,
+      "matchedFocusSkills": 3,
+      "jaccardScore": 0.016216216216216217
+    },
+    {
+      "skillsetId": 3009,
+      "name": "TYPO3 Core API: View:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 3,
+      "matchedFocusSkills": 3,
+      "jaccardScore": 0.016216216216216217
+    },
+    {
+      "skillsetId": 3007,
+      "name": "TYPO3 Explained: Query Builder",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 3,
+      "matchedFocusSkills": 3,
+      "jaccardScore": 0.016216216216216217
+    },
+    {
+      "skillsetId": 3117,
+      "name": "TYPO3 Explained: Caching",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 4,
+      "matchedFocusSkills": 3,
+      "jaccardScore": 0.016129032258064516
+    },
+    {
+      "skillsetId": 3127,
+      "name": "Backend Module with Core Functionality:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 2891,
+      "name": "Backend Module with Extbase:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3284,
+      "name": "TCA Reference: IRRE / inline",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3364,
+      "name": "TCA Reference: Select fields",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 2844,
+      "name": "TYPO3 Core API: Controllers in Extbase:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3254,
+      "name": "TYPO3 Core API: FlexForms",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3094,
+      "name": "TYPO3 Explained: Assets",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3233,
+      "name": "TYPO3 Explained: Backend Modules",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 2979,
+      "name": "TYPO3 Explained: Coding Guidelines:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3089,
+      "name": "TYPO3 Explained: Event Dispatcher",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3376,
+      "name": "TYPO3 Explained: Extbase Persistence",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3366,
+      "name": "TYPO3 Explained: Extbase Reference: Validation:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3274,
+      "name": "TYPO3 Explained: List of PSR-14 Events:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 2981,
+      "name": "TYPO3 Explained: Logging Framework",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3120,
+      "name": "TYPO3 Explained: Message Bus",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3380,
+      "name": "TYPO3 Explained: PHP API: Accessing Site Configuration:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3243,
+      "name": "TYPO3 Explained: TCE & DataHandler",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010810810810810811
+    },
+    {
+      "skillsetId": 3206,
+      "name": "Styling the output with Fluid",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 3,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010752688172043012
+    },
+    {
+      "skillsetId": 3388,
+      "name": "TYPO3 Explained: Advanced routing configuration",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 3,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010752688172043012
+    },
+    {
+      "skillsetId": 3121,
+      "name": "TYPO3 Explained: CLI commands",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 3,
+      "matchedFocusSkills": 2,
+      "jaccardScore": 0.010752688172043012
+    },
+    {
+      "skillsetId": 3297,
+      "name": "Apache Documentation: Error Log",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2999,
+      "name": "Automatic persistence of the domain logic",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2902,
+      "name": "Available Annotations and basic usage:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2931,
+      "name": "Backend Routing",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3210,
+      "name": "Basic Principles:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3175,
+      "name": "Blackfire.io",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2807,
+      "name": "Cardinality",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3002,
+      "name": "Configuring Autoloading for composer extensions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3358,
+      "name": "Configuring multiple Fluid paths",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2848,
+      "name": "Core v8.4 ChangeLog: Access FlexForm values via TS",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3149,
+      "name": "Create widget groups",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2900,
+      "name": "CVE Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2825,
+      "name": "DesignPatternsPHP",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3139,
+      "name": "DesignPatternsPHP:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3251,
+      "name": "Developer Documentation of EXT:dashboard",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2996,
+      "name": "Difference between forward and redirect with non persisted objects",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3163,
+      "name": "Doctrine DBAL:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3249,
+      "name": "documentation on the BitSet class",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3024,
+      "name": "EXT: Admin Panel:: Configuration",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3095,
+      "name": "EXT:scheduler documentation: Scheduler task development",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3221,
+      "name": "Extension development",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3343,
+      "name": "Extension Scanner in TYPO3 Backend:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3347,
+      "name": "Extension Scanner on command line",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2993,
+      "name": "Feature toggles",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3192,
+      "name": "Flexform TCA Column reference",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3187,
+      "name": "FlexForms in the Configuration HowTo",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2914,
+      "name": "Fluid Rendering Engine",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3196,
+      "name": "Fractor",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3253,
+      "name": "GitHub: PHP_CodeSniffer",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3112,
+      "name": "Hooks and signal/slot in the official core documentation",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2987,
+      "name": "How to extend the error and exception handling",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3204,
+      "name": "Inline Syntax ViewHelper Converter",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3054,
+      "name": "Inversion of control",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3407,
+      "name": "JavaScript based Notifications:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3197,
+      "name": "JSON format specification:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2806,
+      "name": "Key-value database",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3235,
+      "name": "Major upgrades",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3263,
+      "name": "Manual of EXT:lowlevel:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3158,
+      "name": "MariaDB Manual: EXPLAIN Syntax",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2906,
+      "name": "Markdown",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3008,
+      "name": "Martin Fowler",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3167,
+      "name": "Martin Fowler: Catalog of Patterns of Enterprise Application Architecture",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3193,
+      "name": "Meta document for PSR-18 with background information",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2962,
+      "name": "Meta Document for PSR-3 with background information",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3073,
+      "name": "Meta programming",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2832,
+      "name": "Meta-document on PSR-14 with background information",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2972,
+      "name": "Monolog documentation: Usage",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2971,
+      "name": "Netsparker: Information Disclosure Attacks in Web Applications:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3172,
+      "name": "Nginx Documentation: Configuring Logging",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3164,
+      "name": "OWASP: Cross-site Scripting",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3041,
+      "name": "OWASP: Vulnerability",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3280,
+      "name": "OWASP: XSS Prevention Cheat Sheet",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3005,
+      "name": "PHP Coding Standards Fixer Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3261,
+      "name": "PHP Debugging Tutorial:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3303,
+      "name": "PHP Documentation: error_log ini directive",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3185,
+      "name": "PHP json_decode function:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3207,
+      "name": "PHP json_encode function:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3162,
+      "name": "PHP.net",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2965,
+      "name": "php.net: Exceptions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3292,
+      "name": "PHPDoc on Wikipedia",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3325,
+      "name": "phpDocumentor manual: Basic Syntax",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3331,
+      "name": "phpDocumentor manual: what is a DocBlock?",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2915,
+      "name": "PhpStan: Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2895,
+      "name": "Project Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2989,
+      "name": "Psalm: Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2801,
+      "name": "PSR Overview",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3312,
+      "name": "PSR-11 Container Interface",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3236,
+      "name": "PSR-15: HTTP Server Request Handlers",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3416,
+      "name": "PSR-17 meta document",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3420,
+      "name": "PSR-17 standard",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3404,
+      "name": "PSR-18 standard",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2967,
+      "name": "PSR-3: Logger Interface",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2785,
+      "name": "PSR-4: Autoloading Standard",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3168,
+      "name": "PSR-7: HTTP message interfaces (official standard)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3266,
+      "name": "Register new Widget",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2893,
+      "name": "Registering and configuring Plugins with and without Extbase",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3226,
+      "name": "Registry:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3035,
+      "name": "RFC",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2899,
+      "name": "RST",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3296,
+      "name": "Session Handling in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3227,
+      "name": "Single Table Inheritance",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3394,
+      "name": "Site handling",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2919,
+      "name": "SOLID",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3006,
+      "name": "SonarQube: Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3288,
+      "name": "Symfony Command Component",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3338,
+      "name": "Symfony Documentation: The Mailer Component:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3313,
+      "name": "Symfony Service Container",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3065,
+      "name": "Symfony Website: Console Component",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2826,
+      "name": "TCA reference",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2975,
+      "name": "TCA reference",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3375,
+      "name": "TCA Reference: Category fields",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3398,
+      "name": "TCA Reference: Checkbox input",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3239,
+      "name": "TCA Reference: Color Input",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3029,
+      "name": "TCA Reference: columnsOverrides",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3370,
+      "name": "TCA Reference: Custom inputs (user)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3126,
+      "name": "TCA Reference: Datetime input",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3122,
+      "name": "TCA Reference: Email input",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3258,
+      "name": "TCA Reference: Field definitions (columns)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3362,
+      "name": "TCA Reference: Group fields",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3409,
+      "name": "TCA Reference: Inputs",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3128,
+      "name": "TCA Reference: Link input",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3400,
+      "name": "TCA Reference: Number input",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3270,
+      "name": "TCA Reference: Password input",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3393,
+      "name": "TCA Reference: Radiobutton input",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2970,
+      "name": "TCA Reference: Table properties (ctrl)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3403,
+      "name": "TCA Reference: Text areas & RTE",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3401,
+      "name": "TCA Reference: Type \"file\"",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3356,
+      "name": "TCA Reference: Type \"folder\"",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3399,
+      "name": "TCA Reference: Type \"slug\"",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3188,
+      "name": "Testing",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3255,
+      "name": "The Configuration module:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2887,
+      "name": "The ExpressionLanguage Component:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2997,
+      "name": "The interaction between Extbase and the database",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2863,
+      "name": "The Project Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2911,
+      "name": "The Project Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3061,
+      "name": "The Project Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3144,
+      "name": "The Project Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3244,
+      "name": "The Project Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2822,
+      "name": "The PSR-14 standard",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3234,
+      "name": "TYPO3 Admin Panel: Debugging a page",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2990,
+      "name": "TYPO3 Admin Panel: Extending the Admin Panel",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3174,
+      "name": "TYPO3 Admin Panel: Inspecting Query Information",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3180,
+      "name": "TYPO3 Admin Panel: Inspecting TypoScript",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3391,
+      "name": "TYPO3 Brand",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3001,
+      "name": "TYPO3 Caching Developer information",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2889,
+      "name": "TYPO3 ChangeLog: Introduce events to modify CKEditor configuration",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3418,
+      "name": "TYPO3 Changelog: Introduce Notification Actions:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3392,
+      "name": "TYPO3 Community",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3104,
+      "name": "TYPO3 Core API: class.ext_update.php",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3378,
+      "name": "TYPO3 Core API: Custom Validator",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3269,
+      "name": "TYPO3 Core API: Data structure:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3341,
+      "name": "TYPO3 Core API: Error and Exception Handling:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3031,
+      "name": "TYPO3 Core API: ErrorAction of Extbase Controller",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3415,
+      "name": "TYPO3 Core API: ES6 in the TYPO3 Backend:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2974,
+      "name": "TYPO3 Core API: Event Dispatcher",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2984,
+      "name": "TYPO3 Core API: Extension Development",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3339,
+      "name": "TYPO3 Core API: Flash Messages:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3318,
+      "name": "TYPO3 Core API: JavaScript Event API:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3408,
+      "name": "TYPO3 Core API: JavaScript in the TYPO3 Backend:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3156,
+      "name": "TYPO3 Core API: Security Concepts",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3355,
+      "name": "TYPO3 Core API: What is extbase",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3222,
+      "name": "TYPO3 Core changelog",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3108,
+      "name": "TYPO3 Core ChangeLog on the event API",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3397,
+      "name": "TYPO3 Core contribution guide",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2913,
+      "name": "TYPO3 Error Handler",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3410,
+      "name": "TYPO3 Explained: Ajax in TYPO3 Backend:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3402,
+      "name": "TYPO3 Explained: Application Context",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2933,
+      "name": "TYPO3 Explained: Authentication & Users",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3345,
+      "name": "TYPO3 Explained: Backend module configuration examples",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3109,
+      "name": "TYPO3 Explained: Backend routing",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3286,
+      "name": "TYPO3 Explained: Best Practices for logging",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3277,
+      "name": "TYPO3 Explained: Bitsets & Enumerations",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3413,
+      "name": "TYPO3 Explained: Client Side AJAX in TYPO3 Backend:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3098,
+      "name": "TYPO3 Explained: Commands tutorial",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3294,
+      "name": "TYPO3 Explained: Configuration of the Logging System",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3107,
+      "name": "TYPO3 Explained: Content Security Policy",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3289,
+      "name": "TYPO3 Explained: Content Security Policy",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3225,
+      "name": "TYPO3 Explained: Context API and aspects",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3091,
+      "name": "TYPO3 Explained: Creating upgrade wizards",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3114,
+      "name": "TYPO3 Explained: Custom data processors",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3231,
+      "name": "TYPO3 Explained: Database records",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2885,
+      "name": "TYPO3 Explained: Database Structure",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2901,
+      "name": "TYPO3 Explained: Debugging",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3183,
+      "name": "TYPO3 Explained: Debugging event handling",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2918,
+      "name": "TYPO3 Explained: Dependency Injection:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3189,
+      "name": "TYPO3 Explained: Dispatching an event",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3385,
+      "name": "TYPO3 Explained: Doctrine DBAL:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3302,
+      "name": "TYPO3 Explained: Documentation on XLIFF files",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3242,
+      "name": "TYPO3 Explained: Environment API:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3276,
+      "name": "TYPO3 Explained: ext_emconf.php",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3205,
+      "name": "TYPO3 Explained: ext_tables.sql",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3377,
+      "name": "TYPO3 Explained: Extbase Error Action",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3026,
+      "name": "TYPO3 Explained: Extbase Reference: Custom Validators:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3363,
+      "name": "TYPO3 Explained: Extbase Repository",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2988,
+      "name": "TYPO3 Explained: Extending Site Configuration:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3406,
+      "name": "TYPO3 Explained: Flash messages API",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3421,
+      "name": "TYPO3 Explained: Flash messages in Extbase",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3417,
+      "name": "TYPO3 Explained: Flash messages renderer",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3102,
+      "name": "TYPO3 Explained: Hooks:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3419,
+      "name": "TYPO3 Explained: JavaScript-based flash messages (Notification API)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2980,
+      "name": "TYPO3 Explained: Logging Framework Quickstart:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2976,
+      "name": "TYPO3 Explained: Logging Framework/Logger:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3344,
+      "name": "TYPO3 Explained: Mail API and Configuration within TYPO3:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2954,
+      "name": "TYPO3 Explained: makeInstance()",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3101,
+      "name": "TYPO3 Explained: MetaTag API:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3412,
+      "name": "TYPO3 Explained: Pagination",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3153,
+      "name": "TYPO3 Explained: Query Builder: createNamedParameter()",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3000,
+      "name": "TYPO3 Explained: Repository",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3238,
+      "name": "TYPO3 Explained: Request Handling & Middlewares",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3151,
+      "name": "TYPO3 Explained: RestrictionBuilder",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3170,
+      "name": "TYPO3 Explained: Security Guidelines for extension development",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2761,
+      "name": "TYPO3 Explained: Security Guidelines: Types of Security Threats:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2982,
+      "name": "TYPO3 Explained: System Log",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3237,
+      "name": "TYPO3 Explained: System Registry",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3359,
+      "name": "TYPO3 Explained: TCA Fields with their own validation configurations",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3395,
+      "name": "TYPO3 Explained: Typoscript Conditions:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2936,
+      "name": "TYPO3 Explained: Upgrade Wizards",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3350,
+      "name": "TYPO3 Explained: Using the DataHandler in scripts",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2879,
+      "name": "TYPO3 Explained: Validation for Extbase Models and Controllers",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2932,
+      "name": "TYPO3 Explained: When to use makeInstance()",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3348,
+      "name": "TYPO3 Explained: Working with exceptions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3390,
+      "name": "TYPO3 Forge",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3272,
+      "name": "TYPO3 Frontend Localization Guide: Core Support for localization",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3247,
+      "name": "TYPO3 Rector",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3036,
+      "name": "TYPO3 Request Life Cycle",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3069,
+      "name": "TYPO3 Scheduler",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3381,
+      "name": "TYPO3 Site Handling: Base Variants (based on Symfony Expressions):",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3248,
+      "name": "TypoScript Reference: EXTBASEPLUGIN",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3372,
+      "name": "TypoScript Reference: USER and USER_INT",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2897,
+      "name": "TypoScriptReference: USER and USER_INT",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3246,
+      "name": "User Session Management",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3256,
+      "name": "Verifying the TCA:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3307,
+      "name": "Version.php source code",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3090,
+      "name": "Versioning & Workspaces",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3411,
+      "name": "ViewHelper Reference: be.pageRenderer",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3086,
+      "name": "W3: HTML Standard: The meta element",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2907,
+      "name": "Wikipedia",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3177,
+      "name": "Wikipedia",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3260,
+      "name": "Wikipedia",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2924,
+      "name": "Wikipedia article",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3240,
+      "name": "Wikipedia: Authentication",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 3232,
+      "name": "Wikipedia: Authorization",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005405405405405406
+    },
+    {
+      "skillsetId": 2998,
+      "name": "Configuring Autoloading for composer extensions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005376344086021506
+    },
+    {
+      "skillsetId": 3022,
+      "name": "Frontend Localization Guide",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005376344086021506
+    },
+    {
+      "skillsetId": 3354,
+      "name": "Routing",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005376344086021506
+    },
+    {
+      "skillsetId": 3025,
+      "name": "Semantic Versioning",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005376344086021506
+    },
+    {
+      "skillsetId": 2847,
+      "name": "TYPO3 Core API: Developing a custom ViewHelper:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005376344086021506
+    },
+    {
+      "skillsetId": 3279,
+      "name": "TYPO3 Explained: File structure:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005376344086021506
+    },
+    {
+      "skillsetId": 3103,
+      "name": "TYPO3 Explained: PageTitle API:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005376344086021506
+    },
+    {
+      "skillsetId": 3245,
+      "name": "TYPO3 Explained: Rich Text Editors",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005376344086021506
+    },
+    {
+      "skillsetId": 3067,
+      "name": "TYPO3 Teams and Committees",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005376344086021506
+    },
+    {
+      "skillsetId": 2877,
+      "name": "TypoScriptReference: Conditions:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005376344086021506
+    },
+    {
+      "skillsetId": 3252,
+      "name": "ViewHelper reference: f:translate",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005376344086021506
+    },
+    {
+      "skillsetId": 2851,
+      "name": "TYPO3 Association",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 4,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005319148936170213
+    },
+    {
+      "skillsetId": 3426,
+      "name": "TYPO3 13 Video Training - Extensions - Extending the range of functions",
+      "firstCategoryTitle": "Education",
+      "skillCount": 7,
+      "matchedFocusSkills": 1,
+      "jaccardScore": 0.005235602094240838
+    },
+    {
+      "skillsetId": 2849,
+      "name": "AbilityNet: An introduction to screen readers",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2861,
+      "name": "About Dangerous Software Weaknesses",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2858,
+      "name": "About the Common Vulnerability Scoring System (CVSS)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2964,
+      "name": "About TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3335,
+      "name": "About TYPO3 Docker Development",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3396,
+      "name": "Admin Panel",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3346,
+      "name": "Advantages of Containerized Web Hosting - Blogpost",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3085,
+      "name": "Agile Manifesto",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3050,
+      "name": "Apache Solr Features",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3349,
+      "name": "Backend entry point",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2874,
+      "name": "Backend Module Linkvalidator",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2815,
+      "name": "Backend search",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3278,
+      "name": "Backend User Management",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3321,
+      "name": "Benefits of containerization - Blogpost",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3046,
+      "name": "Best-practices and tools-techniques to Speed up TYPO3 Performance - Blogpost",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2767,
+      "name": "Blog article (German)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3324,
+      "name": "Blog Article about TYPO3 Hosting (German)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2768,
+      "name": "Browser Chrome",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2786,
+      "name": "Browser Firefox",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2808,
+      "name": "Browser MS Edge",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3267,
+      "name": "Browser Safari",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2804,
+      "name": "Buying ELTS in TYPO3 shop",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3223,
+      "name": "Caching Framework",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3018,
+      "name": "Caching in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2779,
+      "name": "CKEditor Documentation",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3273,
+      "name": "cObject PAGEVIEW",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2840,
+      "name": "Comparison of Image formats",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3369,
+      "name": "Composer Documentation: The composer.json Schema:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2782,
+      "name": "Composer Introduction",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2928,
+      "name": "Composer Website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2828,
+      "name": "Configurable TYPO3 backend URL - ChangeLog v13",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 848,
+      "name": "Create a deep link in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 13,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2789,
+      "name": "Creating a First Extension",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2892,
+      "name": "Dashboard Configuration (TYPO3 documentation)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2852,
+      "name": "Data Protection under GDPR",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3214,
+      "name": "Debugging / analyzing TypoScript",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3191,
+      "name": "Define the priority of PageTitleProviders",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3064,
+      "name": "Deque University: Web Accessibility Checklist - Images",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3125,
+      "name": "Design System Tools (Blog Article)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3003,
+      "name": "Detect, analyze and repair a hacked site",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3136,
+      "name": "Directory Structure (Composer)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3087,
+      "name": "docs.typo3.org: \"Speaking URLs\" in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2871,
+      "name": "docs.typo3.org: Advanced image processing",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3220,
+      "name": "docs.typo3.org: Backend Modules",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3386,
+      "name": "docs.typo3.org: Command Reference",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2948,
+      "name": "docs.typo3.org: Site Handling",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3308,
+      "name": "docs.typo3.org: Static routes to assets",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2959,
+      "name": "Documentation Fluid rendering engine",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3217,
+      "name": "Documentation system extension \"reports\"",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3198,
+      "name": "Documentation w3.org",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3181,
+      "name": "elasticsearch",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2755,
+      "name": "European Commission: Data Protection",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2864,
+      "name": "Extension Bootstrap Package",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3173,
+      "name": "File Guide",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2819,
+      "name": "Fluid ViewHelper Reference",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2824,
+      "name": "Fluid ViewHelper Reference",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2870,
+      "name": "Fluid ViewHelper Reference",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2934,
+      "name": "Fluid ViewHelper Reference: Argument",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2867,
+      "name": "Fluid ViewHelper Reference: cObject ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3142,
+      "name": "Fluid ViewHelper Reference: Comment ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3365,
+      "name": "Fluid ViewHelper Reference: Debug ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3030,
+      "name": "Fluid ViewHelper Reference: For-Loop ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2910,
+      "name": "Fluid ViewHelper Reference: Format ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2912,
+      "name": "Fluid ViewHelper Reference: Format ViewHelper (typo3fluid/fluid)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3137,
+      "name": "Fluid ViewHelper Reference: Grouped-Loop ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2857,
+      "name": "Fluid ViewHelper Reference: If/Else ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2908,
+      "name": "Fluid ViewHelper Reference: Image ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2986,
+      "name": "Fluid ViewHelper Reference: Layout ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2920,
+      "name": "Fluid ViewHelper Reference: Link ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2927,
+      "name": "Fluid ViewHelper Reference: Render ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3038,
+      "name": "Fluid ViewHelper Reference: Render ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3124,
+      "name": "Fluid ViewHelper Reference: Section ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3186,
+      "name": "Fluid ViewHelper Reference: URI ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3004,
+      "name": "Fluid: importing ViewHelpers",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2883,
+      "name": "Fluid: Template File Structure",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2875,
+      "name": "Fluid: Using variables example",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2876,
+      "name": "Fluid: Using ViewHelpers in templates",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2820,
+      "name": "Fluid: What are ViewHelpers?",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2966,
+      "name": "Form Documentation: Concepts",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3157,
+      "name": "Frontend Localization Guide",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2783,
+      "name": "Frontend Login",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3131,
+      "name": "GeeksforGeeks: RESTful Web Services",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2794,
+      "name": "GeeksforGeeks: What are Web Services?",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3084,
+      "name": "General Information on TYPO3 Core and extensions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3182,
+      "name": "General security guidelines - using staging servers",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3079,
+      "name": "get.typo3.org",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2758,
+      "name": "get.typo3.org: System Requirements",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3028,
+      "name": "Getting started Documentation: Info Module",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2784,
+      "name": "Getting started: A quick introduction into TypoScript",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3115,
+      "name": "Getting started: Admin Tools",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3340,
+      "name": "Getting started: Backend privileges System Maintainer",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2949,
+      "name": "Git website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3155,
+      "name": "GitLab: What is a distributed version control system?",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3145,
+      "name": "Global TYPO3 configuration options",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2817,
+      "name": "GNU General Public License",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3110,
+      "name": "Google: Information about canonical tags",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2869,
+      "name": "Google: Information about hreflang tags",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3033,
+      "name": "GPL FAQ",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3315,
+      "name": "GraphicsMagick",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2836,
+      "name": "How localization works (b13 blog post)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2854,
+      "name": "How to make TYPO3 GDPR Compliant? - Blogpost",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2766,
+      "name": "ImageMagick",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2796,
+      "name": "Indexed Search",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3081,
+      "name": "Indexed search documentation",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2957,
+      "name": "Installation and Upgrade Guide: Upgrade Wizard",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2956,
+      "name": "Installation Guide: The Install Tool",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2765,
+      "name": "Introducion to GDPR compliance",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3148,
+      "name": "Introduction: TypoScript Reference",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3326,
+      "name": "Invision Design Systems Handbook on Slideshare",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2850,
+      "name": "Kanban Encoclypedia",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2821,
+      "name": "KE Search functions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3096,
+      "name": "ke_search system requirements",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3334,
+      "name": "Language Menu with the cObject HMENU",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3092,
+      "name": "Language menu with the data processor LanguageMenuProcessor",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3135,
+      "name": "Legacy installations: Directory structure",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3143,
+      "name": "List of supported image files",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3333,
+      "name": "List of TYPO3 console commands",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3371,
+      "name": "Loading classes with Composer mode",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2790,
+      "name": "Localization Guide",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3111,
+      "name": "Location of users and groups",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3023,
+      "name": "Main documentation: MetaTag API",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3066,
+      "name": "Main documentation: TypoScript Reference (Page)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3317,
+      "name": "Material Design by Google (material.io) – Example of a well-documented design system",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3336,
+      "name": "MDN Web Docs: Content Security Policy (CSP) - HTTP",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2860,
+      "name": "MDN: <meta> - The metadata element",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2845,
+      "name": "MDN: ARIA - landmark role",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3062,
+      "name": "MDN: Metadata in HTML",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3049,
+      "name": "Meta tags and attributes that Google supports",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3052,
+      "name": "Moz SEO Learning Center: Duplicate Content",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2853,
+      "name": "Moz SEO Learning Center: HTTP Status Codes",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3327,
+      "name": "mozilla.org: Web technology for developers",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2788,
+      "name": "News Extension in Extension Repository",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2772,
+      "name": "News extension users manual",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3201,
+      "name": "Official documentation of the extension \"Reactions\"",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3043,
+      "name": "Official System Requirements",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2917,
+      "name": "Packagist - The PHP Package Repository",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2905,
+      "name": "Passing Variables from Typoscript FLUIDTEMPLATE:",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3200,
+      "name": "Password policies",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3100,
+      "name": "Password Recommendations",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2835,
+      "name": "Performance & Scalability",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3316,
+      "name": "PHP documentation",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2774,
+      "name": "Quality Assurance Initiative",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3105,
+      "name": "Recommended Extensions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2773,
+      "name": "Recommended performance Blog Posts in TYPO3 Docs",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3147,
+      "name": "Resetting Passwords",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2829,
+      "name": "Roles in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2938,
+      "name": "RTE CKEditor usage in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2868,
+      "name": "Scheduler Tasks",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3080,
+      "name": "Scrum Guide",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2792,
+      "name": "Security Advisories Mailing List",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2771,
+      "name": "Security Bulletins",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2759,
+      "name": "Security guidelines",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2787,
+      "name": "SEO for TYPO3 Editors",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2942,
+      "name": "SEO Starter Guide (Google)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3194,
+      "name": "Set context depending on current host header",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3016,
+      "name": "Setting default user TSconfig",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3228,
+      "name": "Setting up users permissions: File mounts",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3106,
+      "name": "Single Sign-On (SSO) with TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3310,
+      "name": "Solr Ext by DKD (German)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2837,
+      "name": "Solr Extension for TYPO3 website",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3093,
+      "name": "Solr system requirements",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3058,
+      "name": "StackOverflow: #TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2816,
+      "name": "Stanford University Libraries: Best practices for file naming",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3011,
+      "name": "System extension: SEO",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3056,
+      "name": "Talk about the Kano model (T3CV18)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3387,
+      "name": "TCA Reference: Field definitions (columns)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2764,
+      "name": "TER Extensions related to felogin",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3141,
+      "name": "The TYPO3 GmbH",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2762,
+      "name": "The TYPO3 Security Team",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3027,
+      "name": "TSconfig Reference: Admin panel configuration",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3014,
+      "name": "Tutorial for Editors 'Embedding video and audio'",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2834,
+      "name": "Types of Security Threats",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3140,
+      "name": "TYPO GmbH Services",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2776,
+      "name": "TYPO3 12 LTS Release News",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3424,
+      "name": "TYPO3 13 Video Training - E-mail forms with the form extension",
+      "firstCategoryTitle": "Education",
+      "skillCount": 5,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 1122,
+      "name": "TYPO3 13 Video Training - Installing TYPO3",
+      "firstCategoryTitle": "Education",
+      "skillCount": 5,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3422,
+      "name": "TYPO3 13 Video Training - Integrating a website into TYPO3",
+      "firstCategoryTitle": "Education",
+      "skillCount": 19,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 1121,
+      "name": "TYPO3 13 Video Training - Introduction",
+      "firstCategoryTitle": "Education",
+      "skillCount": 7,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3423,
+      "name": "TYPO3 13 Video Training - Introduction to TypoScript and TSConfig",
+      "firstCategoryTitle": "Education",
+      "skillCount": 9,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3428,
+      "name": "TYPO3 13 Video Training - Manage backend users",
+      "firstCategoryTitle": "Education",
+      "skillCount": 4,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3427,
+      "name": "TYPO3 13 Video Training - Multilingualism with TYPO3",
+      "firstCategoryTitle": "Education",
+      "skillCount": 5,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3431,
+      "name": "TYPO3 13 Video Training - Optimize website",
+      "firstCategoryTitle": "Education",
+      "skillCount": 6,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3432,
+      "name": "TYPO3 13 Video Training - Publishing/Deployment",
+      "firstCategoryTitle": "Education",
+      "skillCount": 5,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 1123,
+      "name": "TYPO3 13 Video Training - The TYPO3 Backend at a glance",
+      "firstCategoryTitle": "Education",
+      "skillCount": 9,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3425,
+      "name": "TYPO3 13 Video Training - TYPO3 editor - Editing pages and content",
+      "firstCategoryTitle": "Education",
+      "skillCount": 8,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3429,
+      "name": "TYPO3 13 Video Training - Workspaces",
+      "firstCategoryTitle": "Education",
+      "skillCount": 4,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3020,
+      "name": "TYPO3 Association Memberships",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3250,
+      "name": "TYPO3 Blog posts about performance",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2992,
+      "name": "TYPO3 Bootstrap Package",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3154,
+      "name": "TYPO3 Certification",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2882,
+      "name": "TYPO3 Certification Overview",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3332,
+      "name": "TYPO3 Changelog: Added scheduler task to anonymize IP addresses of tables",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3215,
+      "name": "TYPO3 ChangeLog: Reference index rebuild required",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3322,
+      "name": "TYPO3 CMS System Notes",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2922,
+      "name": "TYPO3 Code of Conduct",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2814,
+      "name": "TYPO3 Community",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2769,
+      "name": "TYPO3 Composer Helper",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2797,
+      "name": "TYPO3 Core ChangeLog",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2898,
+      "name": "TYPO3 Documentation",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3229,
+      "name": "TYPO3 Documentation",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3032,
+      "name": "TYPO3 Documentation Recycler",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2944,
+      "name": "TYPO3 Documentation: About Extensions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2935,
+      "name": "TYPO3 Documentation: Access Control",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3176,
+      "name": "TYPO3 Documentation: Accessibility",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3133,
+      "name": "TYPO3 Documentation: Backend and Frontend",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3138,
+      "name": "TYPO3 Documentation: Concepts",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3268,
+      "name": "TYPO3 Documentation: Content Elements",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2921,
+      "name": "TYPO3 Documentation: Content Security Policy (CSP)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3368,
+      "name": "TYPO3 Documentation: dataWrap",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3123,
+      "name": "TYPO3 Documentation: Deep Linking",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2843,
+      "name": "TYPO3 Documentation: Elements visibility",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3311,
+      "name": "TYPO3 Documentation: Example contact form",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3306,
+      "name": "TYPO3 Documentation: File Module",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2960,
+      "name": "TYPO3 documentation: Form Framework",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3262,
+      "name": "TYPO3 Documentation: Frontend login (users and user groups)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3072,
+      "name": "TYPO3 Documentation: General Backend Structure",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2909,
+      "name": "TYPO3 documentation: General Recommendations for SEO",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2781,
+      "name": "TYPO3 Documentation: Getting Started Tutorial",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2880,
+      "name": "TYPO3 Documentation: GIFBUILDER",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3224,
+      "name": "TYPO3 Documentation: GIFBUILDER",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3329,
+      "name": "TYPO3 Documentation: Including a form into the website content",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3010,
+      "name": "TYPO3 Documentation: innerWrap",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2958,
+      "name": "TYPO3 Documentation: InnerWrap2",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2831,
+      "name": "TYPO3 Documentation: Installing TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3314,
+      "name": "TYPO3 Documentation: Introduction to forms",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3264,
+      "name": "TYPO3 Documentation: Login",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3019,
+      "name": "TYPO3 documentation: Managing Extensions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2754,
+      "name": "TYPO3 Documentation: Multi-Factor Authentication",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2818,
+      "name": "TYPO3 Documentation: Multi-Factor Authentication",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2943,
+      "name": "TYPO3 Documentation: noTrimWrap",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3414,
+      "name": "TYPO3 Documentation: outerWrap",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3300,
+      "name": "TYPO3 Documentation: Page TSconfig",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3293,
+      "name": "TYPO3 Documentation: Page TSconfig example",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2791,
+      "name": "TYPO3 Documentation: Redirect basics",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2830,
+      "name": "TYPO3 Documentation: Redirects module",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2937,
+      "name": "TYPO3 Documentation: Scheduler",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3040,
+      "name": "TYPO3 Documentation: Scheduler",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3282,
+      "name": "TYPO3 documentation: scheduler tasks for workspaces",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2963,
+      "name": "TYPO3 Documentation: Security Guidelines",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2841,
+      "name": "TYPO3 Documentation: SEO for Editors",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3169,
+      "name": "TYPO3 Documentation: Site handling",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3405,
+      "name": "TYPO3 Documentation: stdWrap",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2923,
+      "name": "TYPO3 documentation: System extension form (Frontend Rendering)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2833,
+      "name": "TYPO3 Documentation: System Requirements",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2813,
+      "name": "TYPO3 Documentation: The List Module",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2846,
+      "name": "TYPO3 Documentation: TYPO3 Concepts - Frontend",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2756,
+      "name": "TYPO3 Documentation: TYPO3 Tutorial for Editors / Pages",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3323,
+      "name": "TYPO3 documentation: TYPO3 Upgrade Guide",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2800,
+      "name": "TYPO3 Documentation: User Management",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3165,
+      "name": "TYPO3 Documentation: User TSconfig",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2881,
+      "name": "TYPO3 documentation: workspaces",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 3,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2945,
+      "name": "TYPO3 Documentation: wrap",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2950,
+      "name": "TYPO3 Documentation: Wrap2",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2947,
+      "name": "TYPO3 Documentation: Wrap3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2793,
+      "name": "TYPO3 Documentation:Page Properties",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3119,
+      "name": "TYPO3 explained",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3118,
+      "name": "TYPO3 Explained: Access Control Options",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3132,
+      "name": "TYPO3 Explained: Backend access control (Users & Groups)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2983,
+      "name": "TYPO3 explained: Backend entry point",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2929,
+      "name": "TYPO3 Explained: Compression level as global configuration",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3320,
+      "name": "TYPO3 Explained: Conditions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3213,
+      "name": "TYPO3 Explained: Content Security Policy",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3384,
+      "name": "TYPO3 Explained: ext_emconf.php",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2930,
+      "name": "TYPO3 Explained: File abstraction layer (FAL)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2978,
+      "name": "TYPO3 Explained: File/directory permissions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3161,
+      "name": "TYPO3 Explained: Flag files - ENABLE_INSTALL_TOOL",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3021,
+      "name": "TYPO3 Explained: Fluid",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3271,
+      "name": "TYPO3 Explained: Global configuration \"ipAnonymization\"",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2969,
+      "name": "TYPO3 Explained: Managing translations for backend",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3037,
+      "name": "TYPO3 explained: Multi-Factor Authentication",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2952,
+      "name": "TYPO3 Explained: Output localized strings with Typoscript",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3208,
+      "name": "TYPO3 Explained: Pre-Upgrade Tasks",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3285,
+      "name": "TYPO3 explained: RotatingFileWriter",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2811,
+      "name": "TYPO3 Explained: The TYPO3 Security Team",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2961,
+      "name": "TYPO3 Explained: XLIFF Format",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2953,
+      "name": "TYPO3 Explained: YAML Syntax",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3179,
+      "name": "TYPO3 Extension development",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2757,
+      "name": "TYPO3 Extension Repository (TER)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2780,
+      "name": "TYPO3 Features",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2925,
+      "name": "TYPO3 Fluid Template Engine",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3230,
+      "name": "TYPO3 Form documentation",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 3,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3017,
+      "name": "TYPO3 Frontend Localization Guide",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3088,
+      "name": "TYPO3 Frontend Localization Guide",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2810,
+      "name": "TYPO3 Frontend Login Documentation",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2775,
+      "name": "TYPO3 Getting Started",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3171,
+      "name": "TYPO3 Getting Started Tutorial: Managing Extensions (Legacy Guide)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2886,
+      "name": "TYPO3 Getting Started Tutorial: System Requirements",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3265,
+      "name": "TYPO3 Import/Export documentation",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2903,
+      "name": "TYPO3 Initiatives",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3190,
+      "name": "TYPO3 Installation and Core Web Vitals - Blogpost",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2878,
+      "name": "TYPO3 Licenses",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3045,
+      "name": "TYPO3 Maintenance Releases",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2995,
+      "name": "TYPO3 Partner Program",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2770,
+      "name": "TYPO3 Performance & Scalability",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2888,
+      "name": "TYPO3 Project",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3330,
+      "name": "TYPO3 Redirects documentation",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2873,
+      "name": "TYPO3 Roadmap",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2862,
+      "name": "TYPO3 Scheduler",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3319,
+      "name": "TYPO3 Security Bulletins",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3082,
+      "name": "TYPO3 Security Guide",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3047,
+      "name": "TYPO3 Security Team",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2941,
+      "name": "TYPO3 site handling tutorial",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2994,
+      "name": "TYPO3 site package tutorial",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3299,
+      "name": "TYPO3 site sets tutorial",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 3,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3216,
+      "name": "TYPO3 Slack",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3059,
+      "name": "TYPO3 Slack channel",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2939,
+      "name": "TYPO3 System Extension \"Scheduler\": Setting up the cron job",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3130,
+      "name": "TYPO3 System Extensions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3337,
+      "name": "TYPO3 System Management",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 3,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3071,
+      "name": "TYPO3 Trademark Usage Policy",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3068,
+      "name": "TYPO3 Tutorial: Getting Started",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3305,
+      "name": "TYPO3 Tutorial: Getting started (\"complete the installation process\")",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2859,
+      "name": "TYPO3 Tutorial: Working with Images",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3184,
+      "name": "TYPO3 Webhooks",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3219,
+      "name": "TYPO3 Working With Extensions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2839,
+      "name": "TYPO3 Workspaces Extension",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3048,
+      "name": "TYPO3: Accessibility - Tutorial for Editors",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2872,
+      "name": "TYPO3: Accessibility Improvements",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3113,
+      "name": "TYPO3: Cache",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2812,
+      "name": "TYPO3: Coding Guidelines",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2795,
+      "name": "TYPO3: Development Roadmap for TYPO3 CMS",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2973,
+      "name": "TYPO3: Extended Support (ELTS)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 3,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2777,
+      "name": "TYPO3: Massively Multisite and Multilingual",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3166,
+      "name": "TYPO3: Testing",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2855,
+      "name": "TYPO3: The Accessibility Team",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2985,
+      "name": "TYPO3: TYPO3 RTE by CKEditor",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3211,
+      "name": "TypoScript Condition",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3309,
+      "name": "TypoScript data/getText",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3281,
+      "name": "TypoScript explained",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3160,
+      "name": "TypoScript Explained: Data processors",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3290,
+      "name": "TypoScript in 45 Minutes: Create a menu",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3275,
+      "name": "TypoScript Reference",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2760,
+      "name": "TypoScript Reference (TSRef)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3195,
+      "name": "TypoScript Reference (TSRef): Simple data types",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3360,
+      "name": "TypoScript Reference: Constant editor",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3357,
+      "name": "TypoScript Reference: Constants",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2823,
+      "name": "TypoScript Reference: Data / getText",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3039,
+      "name": "TypoScript Reference: Fluid Template",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3367,
+      "name": "TypoScript Reference: Function imageLinkWrap",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3034,
+      "name": "TypoScript Reference: Function imgResource",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3218,
+      "name": "TypoScript Reference: Functions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2803,
+      "name": "TypoScript Reference: Getting data with stdWrap properties",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3298,
+      "name": "TypoScript Reference: HMENU",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2991,
+      "name": "TypoScript Reference: Properties for all frontend plugin types",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3361,
+      "name": "TypoScript Reference: Site settings",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3283,
+      "name": "TypoScript Reference: Top-level objects",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3304,
+      "name": "TypoScript Reference: Using and setting TypoScript",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2904,
+      "name": "TypoScript Syntax",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3374,
+      "name": "ubuntu.com: The Linux command line for beginners",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2866,
+      "name": "User Types and Authentication services in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3203,
+      "name": "Viewhelper f:asset.css nonce argument",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3202,
+      "name": "Viewhelper f:asset.script nonce argument",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3209,
+      "name": "Viewhelper f:security.nonce",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2856,
+      "name": "W3C: Accessibility Fundamentals Overview",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2805,
+      "name": "W3C: Understanding WCAG 2.0 Guideline 2.4 - Provide ways to help users navigate, find content, and determine where they are",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3070,
+      "name": "W3Schools: Accessibility Landmarks",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3074,
+      "name": "W3Schools: Accessibility Screen Readers",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3295,
+      "name": "w3schools.com: HTML Tutorials",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2799,
+      "name": "WAI: Images Tutorial",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3051,
+      "name": "WCAG 2.1: success criteria tagged with contrast and all techniques",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2865,
+      "name": "WCAG.com Resource Page",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3259,
+      "name": "Web Accessibility Initiative (WAI)",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3134,
+      "name": "Web Content Accessibility Guidelines (WCAG) 2.0",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3057,
+      "name": "web.dev: Metadata",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3083,
+      "name": "WebAIM: Accessible images",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3078,
+      "name": "WebAIM: Contrast and Color Accessibility",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2842,
+      "name": "Webhooks and Reactions",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2778,
+      "name": "What is Scrum",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3076,
+      "name": "Whats new slides TYPO3 v11",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 2,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2809,
+      "name": "Wikipedia entry: Content-Management-System",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3257,
+      "name": "Wikipedia entry: Copyright",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2838,
+      "name": "Wikipedia entry: Image use policy",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 3146,
+      "name": "Wikipedia entry: Personal Data",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    },
+    {
+      "skillsetId": 2951,
+      "name": "Wikipedia entry: Social Media",
+      "firstCategoryTitle": "Learner",
+      "skillCount": 1,
+      "matchedFocusSkills": 0,
+      "jaccardScore": 0
+    }
+  ]
+}
