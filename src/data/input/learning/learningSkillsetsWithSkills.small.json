@@ -1,0 +1,2183 @@
+{
+  "generatedAt": "2026-01-01T13:40:55.274Z",
+  "source": {
+    "organisation": "https://www.skilldisplay.eu/api/v1/organisation/1",
+    "skillsetDetails": "https://www.skilldisplay.eu/api/v1/skillset/{id}",
+    "filterFirstCategoryTitle": [
+      "Learner",
+      "Education"
+    ]
+  },
+  "organisation": {
+    "uid": 1,
+    "name": "TYPO3"
+  },
+  "counts": {
+    "totalSkillSetsInOrganisation": 637,
+    "learningSkillSetsFiltered": 237,
+    "skillSetsWithAtLeastOneSkill": 237
+  },
+  "skillsets": [
+    {
+      "skillsetId": 2849,
+      "name": "AbilityNet: An introduction to screen readers",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2851
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2861,
+      "name": "About Dangerous Software Weaknesses",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3098
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2858,
+      "name": "About the Common Vulnerability Scoring System (CVSS)",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3098
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2964,
+      "name": "About TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        8
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3335,
+      "name": "About TYPO3 Docker Development",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3091
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3396,
+      "name": "Admin Panel",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        438
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3346,
+      "name": "Advantages of Containerized Web Hosting - Blogpost",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3091
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3085,
+      "name": "Agile Manifesto",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2860
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3297,
+      "name": "Apache Documentation: Error Log",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        314
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3050,
+      "name": "Apache Solr Features",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2873,
+        2874
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 2999,
+      "name": "Automatic persistence of the domain logic",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        292
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2902,
+      "name": "Available Annotations and basic usage:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        550
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3349,
+      "name": "Backend entry point",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3090
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2874,
+      "name": "Backend Module Linkvalidator",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        868
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3127,
+      "name": "Backend Module with Core Functionality:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        894,
+        3151
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 2891,
+      "name": "Backend Module with Extbase:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        894,
+        3151
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 2931,
+      "name": "Backend Routing",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3129
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2815,
+      "name": "Backend search",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        205
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3278,
+      "name": "Backend User Management",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2885
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3210,
+      "name": "Basic Principles:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        283
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3321,
+      "name": "Benefits of containerization - Blogpost",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3091
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3046,
+      "name": "Best-practices and tools-techniques to Speed up TYPO3 Performance - Blogpost",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2871
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3175,
+      "name": "Blackfire.io",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2908
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2767,
+      "name": "Blog article (German)",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2877
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3324,
+      "name": "Blog Article about TYPO3 Hosting (German)",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2872
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2768,
+      "name": "Browser Chrome",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        194
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2786,
+      "name": "Browser Firefox",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        194
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2808,
+      "name": "Browser MS Edge",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        194
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3267,
+      "name": "Browser Safari",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        194
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2804,
+      "name": "Buying ELTS in TYPO3 shop",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2884
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3223,
+      "name": "Caching Framework",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        267
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3018,
+      "name": "Caching in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2871
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2807,
+      "name": "Cardinality",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3149
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2779,
+      "name": "CKEditor Documentation",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        14
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3273,
+      "name": "cObject PAGEVIEW",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3169
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2840,
+      "name": "Comparison of Image formats",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2888
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3369,
+      "name": "Composer Documentation: The composer.json Schema:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        473
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2782,
+      "name": "Composer Introduction",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2882
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2928,
+      "name": "Composer Website",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        677
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2828,
+      "name": "Configurable TYPO3 backend URL - ChangeLog v13",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3090
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2998,
+      "name": "Configuring Autoloading for composer extensions",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        513,
+        473
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 3002,
+      "name": "Configuring Autoloading for composer extensions",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        513
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3358,
+      "name": "Configuring multiple Fluid paths",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        288
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2848,
+      "name": "Core v8.4 ChangeLog: Access FlexForm values via TS",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        279
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 848,
+      "name": "Create a deep link in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        199,
+        4,
+        8,
+        193,
+        6,
+        194,
+        9,
+        2381,
+        2377,
+        195,
+        197,
+        198,
+        7
+      ],
+      "skillCountFromApi": 13
+    },
+    {
+      "skillsetId": 3149,
+      "name": "Create widget groups",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        884
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2789,
+      "name": "Creating a First Extension",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2879
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2900,
+      "name": "CVE Website",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3107
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2892,
+      "name": "Dashboard Configuration (TYPO3 documentation)",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        883,
+        896
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 2852,
+      "name": "Data Protection under GDPR",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2852,
+        3095
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 3214,
+      "name": "Debugging / analyzing TypoScript",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2922
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3191,
+      "name": "Define the priority of PageTitleProviders",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        244
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3064,
+      "name": "Deque University: Web Accessibility Checklist - Images",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2850
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3125,
+      "name": "Design System Tools (Blog Article)",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3094
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2825,
+      "name": "DesignPatternsPHP",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3150
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3139,
+      "name": "DesignPatternsPHP:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3147
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3003,
+      "name": "Detect, analyze and repair a hacked site",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2868,
+        3096
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 3251,
+      "name": "Developer Documentation of EXT:dashboard",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        884
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2996,
+      "name": "Difference between forward and redirect with non persisted objects",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        292
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3136,
+      "name": "Directory Structure (Composer)",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2914
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3087,
+      "name": "docs.typo3.org: \"Speaking URLs\" in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        508
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2871,
+      "name": "docs.typo3.org: Advanced image processing",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        268
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3220,
+      "name": "docs.typo3.org: Backend Modules",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        264
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3386,
+      "name": "docs.typo3.org: Command Reference",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        489
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2948,
+      "name": "docs.typo3.org: Site Handling",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3184,
+        3185
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 3308,
+      "name": "docs.typo3.org: Static routes to assets",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3184
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3163,
+      "name": "Doctrine DBAL:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        301
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2959,
+      "name": "Documentation Fluid rendering engine",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        158
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3249,
+      "name": "documentation on the BitSet class",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        892
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3217,
+      "name": "Documentation system extension \"reports\"",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        264
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3198,
+      "name": "Documentation w3.org",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2920
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3181,
+      "name": "elasticsearch",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2874
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2755,
+      "name": "European Commission: Data Protection",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2864
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3024,
+      "name": "EXT: Admin Panel:: Configuration",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        310
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3095,
+      "name": "EXT:scheduler documentation: Scheduler task development",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        471
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2864,
+      "name": "Extension Bootstrap Package",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3099
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3221,
+      "name": "Extension development",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3134
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3343,
+      "name": "Extension Scanner in TYPO3 Backend:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        477
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3347,
+      "name": "Extension Scanner on command line",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        477
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2993,
+      "name": "Feature toggles",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3116
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3173,
+      "name": "File Guide",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2377
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3192,
+      "name": "Flexform TCA Column reference",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        277
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3187,
+      "name": "FlexForms in the Configuration HowTo",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        279
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2914,
+      "name": "Fluid Rendering Engine",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3115
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2819,
+      "name": "Fluid ViewHelper Reference",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        121
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2824,
+      "name": "Fluid ViewHelper Reference",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3177
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2870,
+      "name": "Fluid ViewHelper Reference",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2542
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2934,
+      "name": "Fluid ViewHelper Reference: Argument",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3205
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2867,
+      "name": "Fluid ViewHelper Reference: cObject ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        866
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3142,
+      "name": "Fluid ViewHelper Reference: Comment ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        123
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3365,
+      "name": "Fluid ViewHelper Reference: Debug ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        309
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3030,
+      "name": "Fluid ViewHelper Reference: For-Loop ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        125
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2910,
+      "name": "Fluid ViewHelper Reference: Format ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        237
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2912,
+      "name": "Fluid ViewHelper Reference: Format ViewHelper (typo3fluid/fluid)",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        237
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3137,
+      "name": "Fluid ViewHelper Reference: Grouped-Loop ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        125
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2857,
+      "name": "Fluid ViewHelper Reference: If/Else ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        124
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2908,
+      "name": "Fluid ViewHelper Reference: Image ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        239
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2986,
+      "name": "Fluid ViewHelper Reference: Layout ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        122
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2920,
+      "name": "Fluid ViewHelper Reference: Link ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        236
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2927,
+      "name": "Fluid ViewHelper Reference: Render ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        131
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3038,
+      "name": "Fluid ViewHelper Reference: Render ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        122
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3124,
+      "name": "Fluid ViewHelper Reference: Section ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        122
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3186,
+      "name": "Fluid ViewHelper Reference: URI ViewHelper",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        236
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3004,
+      "name": "Fluid: importing ViewHelpers",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        129
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2883,
+      "name": "Fluid: Template File Structure",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        122
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2875,
+      "name": "Fluid: Using variables example",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        120
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2876,
+      "name": "Fluid: Using ViewHelpers in templates",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        121
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2820,
+      "name": "Fluid: What are ViewHelpers?",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        121
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2966,
+      "name": "Form Documentation: Concepts",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        230
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3196,
+      "name": "Fractor",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3132
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3022,
+      "name": "Frontend Localization Guide",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        206,
+        886
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 3157,
+      "name": "Frontend Localization Guide",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        620
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2783,
+      "name": "Frontend Login",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2885
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3131,
+      "name": "GeeksforGeeks: RESTful Web Services",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2878
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2794,
+      "name": "GeeksforGeeks: What are Web Services?",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2878
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3084,
+      "name": "General Information on TYPO3 Core and extensions",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3088
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3182,
+      "name": "General security guidelines - using staging servers",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2881
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3079,
+      "name": "get.typo3.org",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2546
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2758,
+      "name": "get.typo3.org: System Requirements",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        8,
+        2872
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 3028,
+      "name": "Getting started Documentation: Info Module",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        862
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2784,
+      "name": "Getting started: A quick introduction into TypoScript",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        265
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3115,
+      "name": "Getting started: Admin Tools",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        253,
+        257
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 3340,
+      "name": "Getting started: Backend privileges System Maintainer",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        253
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2949,
+      "name": "Git website",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        703
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3253,
+      "name": "GitHub: PHP_CodeSniffer",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2918
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3155,
+      "name": "GitLab: What is a distributed version control system?",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2886
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3145,
+      "name": "Global TYPO3 configuration options",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        618
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2817,
+      "name": "GNU General Public License",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2863
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3110,
+      "name": "Google: Information about canonical tags",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        863
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2869,
+      "name": "Google: Information about hreflang tags",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        863
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3033,
+      "name": "GPL FAQ",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2863
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3315,
+      "name": "GraphicsMagick",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        39
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3112,
+      "name": "Hooks and signal/slot in the official core documentation",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        318
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2836,
+      "name": "How localization works (b13 blog post)",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2891,
+        3087
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 2987,
+      "name": "How to extend the error and exception handling",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3119
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2854,
+      "name": "How to make TYPO3 GDPR Compliant? - Blogpost",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2852,
+        3098
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 2766,
+      "name": "ImageMagick",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        39
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2796,
+      "name": "Indexed Search",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2874
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3081,
+      "name": "Indexed search documentation",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3089
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3204,
+      "name": "Inline Syntax ViewHelper Converter",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        282
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2957,
+      "name": "Installation and Upgrade Guide: Upgrade Wizard",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        254
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2956,
+      "name": "Installation Guide: The Install Tool",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        253
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2765,
+      "name": "Introducion to GDPR compliance",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2864
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3148,
+      "name": "Introduction: TypoScript Reference",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2892
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3054,
+      "name": "Inversion of control",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3143
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3326,
+      "name": "Invision Design Systems Handbook on Slideshare",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3094
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3407,
+      "name": "JavaScript based Notifications:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        878
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3197,
+      "name": "JSON format specification:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        286
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2850,
+      "name": "Kanban Encoclypedia",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2861
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2821,
+      "name": "KE Search functions",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2874
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3096,
+      "name": "ke_search system requirements",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3089
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2806,
+      "name": "Key-value database",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3148
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3334,
+      "name": "Language Menu with the cObject HMENU",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        620
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3092,
+      "name": "Language menu with the data processor LanguageMenuProcessor",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        620
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3135,
+      "name": "Legacy installations: Directory structure",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2914
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3143,
+      "name": "List of supported image files",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2888
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3333,
+      "name": "List of TYPO3 console commands",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        621
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3371,
+      "name": "Loading classes with Composer mode",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        473
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2790,
+      "name": "Localization Guide",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3170
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3111,
+      "name": "Location of users and groups",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        247
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3023,
+      "name": "Main documentation: MetaTag API",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2856
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3066,
+      "name": "Main documentation: TypoScript Reference (Page)",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2856
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3235,
+      "name": "Major upgrades",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3133
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3263,
+      "name": "Manual of EXT:lowlevel:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        893
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3158,
+      "name": "MariaDB Manual: EXPLAIN Syntax",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2908
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2906,
+      "name": "Markdown",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3106
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3008,
+      "name": "Martin Fowler",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3150
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3167,
+      "name": "Martin Fowler: Catalog of Patterns of Enterprise Application Architecture",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2909
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3317,
+      "name": "Material Design by Google (material.io) – Example of a well-documented design system",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3094
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3336,
+      "name": "MDN Web Docs: Content Security Policy (CSP) - HTTP",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2869,
+        2920
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 2860,
+      "name": "MDN: <meta> - The metadata element",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2856
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2845,
+      "name": "MDN: ARIA - landmark role",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2851
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3062,
+      "name": "MDN: Metadata in HTML",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2856
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3193,
+      "name": "Meta document for PSR-18 with background information",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        876
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2962,
+      "name": "Meta Document for PSR-3 with background information",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        393
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3073,
+      "name": "Meta programming",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3142
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3049,
+      "name": "Meta tags and attributes that Google supports",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2856
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2832,
+      "name": "Meta-document on PSR-14 with background information",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        881
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2972,
+      "name": "Monolog documentation: Usage",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        393
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3052,
+      "name": "Moz SEO Learning Center: Duplicate Content",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2858
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2853,
+      "name": "Moz SEO Learning Center: HTTP Status Codes",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2858
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3327,
+      "name": "mozilla.org: Web technology for developers",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        625
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2971,
+      "name": "Netsparker: Information Disclosure Attacks in Web Applications:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        307
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2788,
+      "name": "News Extension in Extension Repository",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2875
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2772,
+      "name": "News extension users manual",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2875
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3172,
+      "name": "Nginx Documentation: Configuring Logging",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        314
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3201,
+      "name": "Official documentation of the extension \"Reactions\"",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2915
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3043,
+      "name": "Official System Requirements",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2872
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3164,
+      "name": "OWASP: Cross-site Scripting",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        306
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3041,
+      "name": "OWASP: Vulnerability",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        308
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3280,
+      "name": "OWASP: XSS Prevention Cheat Sheet",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        306
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2917,
+      "name": "Packagist - The PHP Package Repository",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        263
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2905,
+      "name": "Passing Variables from Typoscript FLUIDTEMPLATE:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        120
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3200,
+      "name": "Password policies",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2917
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3100,
+      "name": "Password Recommendations",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        7
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2835,
+      "name": "Performance & Scalability",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2871
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3005,
+      "name": "PHP Coding Standards Fixer Website",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2918
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3261,
+      "name": "PHP Debugging Tutorial:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        313
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3316,
+      "name": "PHP documentation",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        622
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3303,
+      "name": "PHP Documentation: error_log ini directive",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        314
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3185,
+      "name": "PHP json_decode function:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        286
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3207,
+      "name": "PHP json_encode function:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        286
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3162,
+      "name": "PHP.net",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        315
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2965,
+      "name": "php.net: Exceptions",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3155
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3292,
+      "name": "PHPDoc on Wikipedia",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        475
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3325,
+      "name": "phpDocumentor manual: Basic Syntax",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        475
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3331,
+      "name": "phpDocumentor manual: what is a DocBlock?",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        475
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2915,
+      "name": "PhpStan: Website",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2919
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2895,
+      "name": "Project Website",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3102
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2989,
+      "name": "Psalm: Website",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2919
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2801,
+      "name": "PSR Overview",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        273
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3312,
+      "name": "PSR-11 Container Interface",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        889
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3236,
+      "name": "PSR-15: HTTP Server Request Handlers",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        504
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3416,
+      "name": "PSR-17 meta document",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        877
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3420,
+      "name": "PSR-17 standard",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        877
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3404,
+      "name": "PSR-18 standard",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        876
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2967,
+      "name": "PSR-3: Logger Interface",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        393
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2785,
+      "name": "PSR-4: Autoloading Standard",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        513
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3168,
+      "name": "PSR-7: HTTP message interfaces (official standard)",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        317
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2774,
+      "name": "Quality Assurance Initiative",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2880
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3105,
+      "name": "Recommended Extensions",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2879
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2773,
+      "name": "Recommended performance Blog Posts in TYPO3 Docs",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2871
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3266,
+      "name": "Register new Widget",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        884
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2893,
+      "name": "Registering and configuring Plugins with and without Extbase",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        895
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3226,
+      "name": "Registry:",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3147
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3147,
+      "name": "Resetting Passwords",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        618
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3035,
+      "name": "RFC",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3183
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2829,
+      "name": "Roles in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        193
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3354,
+      "name": "Routing",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3159,
+        507
+      ],
+      "skillCountFromApi": 2
+    },
+    {
+      "skillsetId": 2899,
+      "name": "RST",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3105
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2938,
+      "name": "RTE CKEditor usage in TYPO3",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        14
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2868,
+      "name": "Scheduler Tasks",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3095
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3080,
+      "name": "Scrum Guide",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2859
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2792,
+      "name": "Security Advisories Mailing List",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2380
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2771,
+      "name": "Security Bulletins",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2380
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 2759,
+      "name": "Security guidelines",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        2380
+      ],
+      "skillCountFromApi": 1
+    },
+    {
+      "skillsetId": 3025,
+      "name": "Semantic Versioning",
+      "firstCategoryTitle": "Learner",
+      "skillIds": [
+        3174,
+        2538
+      ],
+      "skillCountFromApi": 2
+    }
+  ]
+}

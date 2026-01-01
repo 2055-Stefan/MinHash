@@ -1,5 +1,5 @@
-// Optimized Jaccard similarity using Sets
-export function jaccardOptimized(arrA, arrB) {
+// Jaccard similarity using Sets
+export function jaccardNew(arrA, arrB) {
     const setA = new Set(arrA);
     const setB = new Set(arrB);
 

@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-01-01T13:57:44.131Z",
+  "inputs": {
+    "focusFile": "./data/input/focus/focusSkillIds.medium.json",
+    "learningFile": "./data/input/learning/learningSkillsetsWithSkills.large.json",
+    "focusSkillCount": 185,
+    "learningSkillsetCount": 6963
+  },
+  "considered": {
+    "consideredLearningResources": 6963,
+    "ignoredLearningResources": 0,
+    "reasonIgnored": "skillIds missing or empty"
+  },
+  "timingsSeconds": {
+    "filtering": 0.000524,
+    "comparison": 0.048308,
+    "sorting": 0.000847,
+    "total": 0.049678
+  },
+  "perUnit": {
+    "secondsPerLearningResource": 0.000007135
+  }
+}

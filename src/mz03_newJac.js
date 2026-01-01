@@ -9,8 +9,7 @@
 import fs from "fs";
 import path from "path";
 import { performance } from "perf_hooks";
-import { jaccardSimilarity } from "./jaccard.js";
-
+import { jaccardNew } from "./jaccard_new.js";
 
 /* ===============================
    Helpers
@@ -89,7 +88,7 @@ const tFilterEnd = nowSec();
 const tCompareStart = nowSec();
 
 const compared = considered.map((s) => {
-  const score = jaccardSimilarity(focusSkills, s.skillIds);
+  const score = jaccardNew(focusSkills, s.skillIds);
   return {
     skillsetId: s.skillsetId ?? null,
     jaccardScore: score,

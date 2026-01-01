@@ -14,7 +14,7 @@ const CONCURRENCY = 6;
 const MAX_RETRIES = 4;
 const WAVE_DELAY_MS = 150;
 
-// Optional: Falls Auth benötigt werden sollte
+// Optional: Falls zukünftig Auth benötigt werden sollte)
 const TOKEN = process.env.SKILLDISPLAY_TOKEN;
 
 function sleep(ms) {
