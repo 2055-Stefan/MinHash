@@ -16,8 +16,7 @@ eval "$(ssh-agent -s)" \
 ssh-add ~/.ssh/sshkey
 
 
+---
 
-
-
-
-
+Comparison: MinHash vs. Jaccard If Node.js is installed, run the most precise measurement using:  
+node --expose-gc measure.js

@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-01-01T16:09:46.760Z",
+  "inputs": {
+    "focusFile": "./data/input/focus/focusSkillIds.medium.json",
+    "learningFile": "./data/input/learning/learningSkillsetsWithSkills.medium.json",
+    "focusSkillCount": 185,
+    "learningSkillsetCountRaw": 633,
+    "learningResourcesConsidered": 633
+  },
+  "config": {
+    "kValues": [
+      1,
+      8,
+      32,
+      64,
+      256,
+      1024,
+      32768,
+      1048576
+    ],
+    "maxHash": 2147483647
+  },
+  "results": [
+    {
+      "algorithm": "Jaccard",
+      "k": "-",
+      "similarity": 0.00244946929728794,
+      "timeMs": 3.0361000000002605,
+      "errorMAE": 0,
+      "helpJaccardSim": 0.00244946929728794,
+      "secPerResource": 0.0000047963665086891956
+    },
+    {
+      "algorithm": "MinHash",
+      "k": 1,
+      "similarity": 0.001579778830963665,
+      "timeMs": 47.37519999999995,
+      "errorMAE": 0.004012169438187127,
+      "helpJaccardSim": 0.00244946929728794,
+      "secPerResource": 0.00007484233807266975
+    },
+    {
+      "algorithm": "MinHash",
+      "k": 8,
+      "similarity": 0.0019747235387045812,
+      "timeMs": 57.19849999999997,
+      "errorMAE": 0.004202537148811684,
+      "helpJaccardSim": 0.00244946929728794,
+      "secPerResource": 0.00009036097946287514
+    },
+    {
+      "algorithm": "MinHash",
+      "k": 32,
+      "similarity": 0.002517772511848341,
+      "timeMs": 87.3127999999997,
+      "errorMAE": 0.004045540540686028,
+      "helpJaccardSim": 0.00244946929728794,
+      "secPerResource": 0.0001379349131121638
+    },
+    {
+      "algorithm": "MinHash",
+      "k": 64,
+      "similarity": 0.002221563981042654,
+      "timeMs": 124.3765999999996,
+      "errorMAE": 0.0031707081712427482,
+      "helpJaccardSim": 0.00244946929728794,
+      "secPerResource": 0.00019648751974723477
+    },
+    {
+      "algorithm": "MinHash",
+      "k": 256,
+      "similarity": 0.0023820102685624014,
+      "timeMs": 371.8828999999996,
+      "errorMAE": 0.0015770227007489157,
+      "helpJaccardSim": 0.00244946929728794,
+      "secPerResource": 0.000587492733017377
+    },
+    {
+      "algorithm": "MinHash",
+      "k": 1024,
+      "similarity": 0.0024437203791469195,
+      "timeMs": 1407.7753000000002,
+      "errorMAE": 0.0007970345820211338,
+      "helpJaccardSim": 0.00244946929728794,
+      "secPerResource": 0.0022239736176935232
+    },
+    {
+      "algorithm": "MinHash",
+      "k": 32768,
+      "similarity": 0.002413974177404226,
+      "timeMs": 46949.3582,
+      "errorMAE": 0.00016816080094514093,
+      "helpJaccardSim": 0.00244946929728794,
+      "secPerResource": 0.07416960221169036
+    },
+    {
+      "algorithm": "MinHash",
+      "k": 1048576,
+      "similarity": 0.002434593429685957,
+      "timeMs": 1650202.5176000001,
+      "errorMAE": 0.00010428190252928529,
+      "helpJaccardSim": 0.00244946929728794,
+      "secPerResource": 2.606955004107425
+    }
+  ]
+}
