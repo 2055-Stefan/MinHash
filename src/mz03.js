@@ -115,6 +115,7 @@ const sortTime = tSortEnd - tSortStart;
 const totalTime = filterTime + compareTime + sortTime;
 
 const consideredCount = considered.length;
+const ignoredCount = learningSkillsets.length - consideredCount;
 
 const perResourceSeconds =
   consideredCount === 0 ? 0 : totalTime / consideredCount;
@@ -129,8 +130,8 @@ const stats = {
   },
   considered: {
     consideredLearningResources: consideredCount,
-    ignoredLearningResources: learningSkillsets.length - consideredCount,
-    reasonIgnored: "skillIds missing or empty",
+    ignoredLearningResources: ignoredCount,
+    reasonIgnored: ignoredCount === 0 ? "none" : "skillIds missing or empty",
   },
   timingsSeconds: {
     filtering: Number(filterTime.toFixed(6)),
@@ -142,6 +143,7 @@ const stats = {
     secondsPerLearningResource: Number(perResourceSeconds.toExponential(3)),
   },
 };
+
 
 /* ===============================
    Output

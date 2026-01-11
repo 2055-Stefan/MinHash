@@ -9,7 +9,7 @@
   "considered": {
     "consideredLearningResources": 633,
     "ignoredLearningResources": 0,
-    "reasonIgnored": "skillIds missing or empty"
+    "reasonIgnored": "none"
   },
   "timingsSeconds": {
     "filtering": 0.000043,
