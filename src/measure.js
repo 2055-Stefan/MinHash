@@ -23,13 +23,13 @@ import { buildMinhashSet, compareMinhashSets } from "./minhash.js";
 /* ===============================
    Config
 ================================ */
-const FOCUS_FILE = "./data/input/focus/focusSkillIds.large.json";
-const LEARNING_FILE = "./data/input/learning/learningSkillsetsWithSkills.large.json";
+const FOCUS_FILE = "./data/input/focus/focusSkillIds.medium.json";
+const LEARNING_FILE = "./data/input/learning/learningSkillsetsWithSkills.medium.json";
 
 const OUTPUT_DIR = "./data/output/mz04";
 
 // k = number of hash functions
-const K_VALUES = [1,  32, 128, 256, 1024, 2048, 3072, 4096, 16384, 32768, 131072]; // 1048576 dauert zu lange - bricht ab
+const K_VALUES = [1,  32, 128, 256, 1024, 2048, 3072, 4096, 16384, 32768]; // 1048576 dauert zu lange - bricht ab
 
 // max hash value parameter for MinHashFactory(k, maxHash)
 const MAX_HASH = 2147483647;
@@ -134,7 +134,7 @@ function warmup() {
 warmup();
 
 if (USE_GC_BETWEEN_PHASES && typeof global.gc !== "function") {
-  console.log("⚠️ Hinweis: global.gc() nicht verfügbar. Starte mit: node --expose-gc measure.js");
+  console.log("Hinweis: global.gc() nicht verfügbar. Starte mit: node --expose-gc measure.js");
 }
 
 /* ===============================
@@ -309,7 +309,7 @@ fs.writeFileSync(OUT_TSV, tsvLines.join("\n"), "utf-8");
 /* ===============================
    Console output
 ================================ */
-console.log("✅ measure.js abgeschlossen (MZ04)");
+console.log("measure.js abgeschlossen (MZ04)");
 console.log("Focus skills:", focusSkills.length);
 console.log("Learning resources (considered):", N);
 console.log("Outputs:", OUT_JSON, "and", OUT_TSV);
