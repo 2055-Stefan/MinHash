@@ -1,4 +1,4 @@
-// jaccard.js
+// jaccard.js 
 
 // Vorgegebene Logik (SkillSet + desired IDs)
 function jaccardSkillset(skillset, desiredSkillIdsWithoutVerification) {
